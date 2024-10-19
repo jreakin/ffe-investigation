@@ -18,5 +18,5 @@ jobs:
         with:
           key: ${{ github.ref }}
           path: .cache
-      - run: pip install mkdocs-material mkdocs-git-revision-date-localized-plugin pillow cairosvg mkdocstrings-python
+      - run: pip install mkdocs-material mkdocs-git-revision-date-localized-plugin pillow cairosvg mkdocstrings-python mkdocs-video
       - run: mkdocs gh-deploy --force
