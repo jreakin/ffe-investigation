@@ -55,61 +55,109 @@ The denial responses received to the public information request are standard. Th
 
 ---
 
-### On _October_ 19, Krista Crates-Miller sent a 'Crisis Intervention Team' pamphlet to Dr. Hatton
-- As the PIR *exclusively* related to anything within the critiera I sent over, this correspondence is related to FFE.
-- This is being distributed between Crates-Miller and Dr. Hatton *one month* prior to any reported issues.  
+### Suspicious Timing: Crisis Intervention Team Information Shared Prior to Reported Issues
+On October 19, a significant exchange occurred between key figures in the Findlay City Schools administration:
+
+- Sender: Krista Crates-Miller
+- Recipient: Dr. Hatton (Superintendent)
+- Content: 'Crisis Intervention Team' pamphlet
+
+Key Observations:
+
+1. Relevance to FFE:
+	- This correspondence was included in the Public Information Request (PIR) response.
+	- The PIR specifically requested information related to Findlay First Edition (FFE).
+	- Its inclusion suggests a direct connection to the FFE situation.
+
+2. Timing Discrepancy:
+	- This exchange took place one month before any issues were officially reported.
+	- The timing raises questions about the administration's foreknowledge or preparation for potential FFE-related events.
+
+
+3. Visual Evidence:
+	- Two images are provided as proof of this correspondence:
+		1. The initial information exchange
+		2. The first page of the Crisis Intervention brochure##
 ![](../images/Oct%2019%20-%20Crisis%20Intervention%20Info.png)  
 ![](../images/Oct%2019%20-%20Crisis%20Brochure%20Page%201.png)
 
 
-### Tone of interactions between Dr. Hatton and Mr. Manley was cordial up until November 10. 
-- In an email on Nov 1, Kevin Manley thanked Dr. Hatton for being the Master of Ceremonies of the FFE Fall FEst, referring to the Superintendent as "Andy". 
-- After the initial meeting about the concerns around FFE between Hatton and Manley on November 10, Kevin was still calling the Superintendent "Andy".  
-![](../images/Nov 1 - Manley refers to Hatton as "Andy".png)
+### Shifting Dynamics: Manley-Hatton Relationship and Confirmation of Proper Reporting
 
-- In a November 8 email, FCS Principal Meg Simon expressed a desire to sit down with Kevin Manley about "the contents of the FFE parent communication you received". This email confirms Mr. Manley properly reported issues within the show choir, correspondence that was intentionally omitted from the FFE Investigation report, as discussed in my original walkthrough of the inaccuracies and omissions by the investigator.  
+#### Cordial Relationship Prior to Investigation
+
+- **November 1**: Kevin Manley thanked Dr. Hatton for being the Master of Ceremonies at the FFE Fall Fest.
+	- Notably, Manley referred to the Superintendent as "Andy," indicating a friendly, informal relationship.
+
+- **Post-November 10**: Even after the initial meeting about FFE concerns, Manley continued to address Hatton as "Andy."
+	- This suggests the relationship remained cordial despite emerging issues.
+	![](../images/Nov 1 - Manley refers to Hatton as "Andy".png)
+
+#### Confirmation of Proper Reporting by Manley
+
+- **November 8**: A crucial email from FCS Principal Meg Simon revealed:
+	- Simon expressed a desire to discuss with Manley "the contents of the FFE parent communication you received."
+	- This email serves as evidence that Manley properly reported issues within the show choir to the administration.
+	- Importantly, this correspondence was omitted from the FFE Investigation report.
+
+#### Significance of the Omission
+The exclusion of this email from the investigation report raises serious questions about the thoroughness and impartiality of the investigation. As discussed in the original analysis of the report's inaccuracies and omissions, this omission appears to be intentional and potentially misleading.
+
+For a detailed breakdown of this issue and its implications, refer to the following video segment:
 {% include "https://youtu.be/IfcRuU7wA_U?si=HpXkRUnwjhh93Vko&t=607" %}
 
-### Krista Crates-Miller is the first person to mention an issue related to FFE
-- On November 2, Crates-Miller sent via text message "we have an FFE problem"  
+#### Key Takeaways 
+1. The initial cordial relationship between Manley and Hatton, as evidenced by informal communication.
+2. Confirmation that Manley properly reported FFE issues, contradicting any claims of negligence.
+3. The deliberate omission of crucial evidence from the investigation report, raising concerns about its credibility and objectivity.
+
+
+### Krista Crates-Miller's Problematic Involvement in the FFE Investigation
+#### Initial Identification of the "FFE Problem"
+- **November 2**: Crates-Miller first mentions an "FFE problem" via text message.  
 ![](../images/Nov%202%20-%20Krista%20Miller%20"We%20have%20an%20FFE%20problem".png)  
 
-#### 20 minutes later, Hatton contacts an FHS principal, stating Crates-Miller is 'too close to home' on the FFE problem
-- In a text message to principal Meg Simon, Hatton states "I think it's best we navigate this together as it's (sic) hits close to home for Krista."  
-- When something "hits close to home," it often means the person has strong feelings or opinions about the matter, which can lead to unconscious or conscious bias in their approach to handing the matter.  
-- Conflict of interest: Hatton implicity acknowledges Crates-Miller has difficulty separating her personal feelings from her professional responsibilities.  
-- Acknowledging ethical conundrums: Ethical Considerations: One can infer Hatton is asserting Crates-Miller is recused from any matter relating to the "FFE problem" from that point forward, to maintain the integrity of the process.
-![](../images/Nov%202%20-%20Hatton%20"Close%20to%20home%20for%20Krista%20Miller".png)  
+#### Acknowledged Conflict of Interest
+- **20 minutes later**: Dr. Hatton texts Principal Meg Simon, stating the issue "hits close to home for Krista."
+- This acknowledgment suggests:
+	1. Crates-Miller has strong personal feelings about the matter.
+	2. Potential for unconscious or conscious bias in her approach.
+	3. Difficulty in separating personal feelings from professional responsibilities.
+	4. Implicit recusal of Crates-Miller from the "FFE problem" to maintain integrity.   
+	![](../images/Nov%202%20-%20Hatton%20"Close%20to%20home%20for%20Krista%20Miller".png)  
 
-#### Except Hatton still sent documents and information to Crates-Miller for "The file"
-- An email dated November 20 from Dr. Hatton instructs Crates-Miller to place his notification of administrative leave to Kevin Manley in "the file".  
-![](../images/Nov%2020%20-%20Hatton%20"For%20the%20File".png)  
+#### Continued Involvement Despite Acknowledged Conflict
+1. **Document Handling**:
+	- **November 20**: Dr. Hatton instructs Crates-Miller to file Kevin Manley's administrative leave notification.  
+	![](../images/Nov%2020%20-%20Hatton%20"For%20the%20File".png)  
 
-#### And Crates-Miller coordinated with former director of The Boingers, Alycia (Althaus) Fox. 
-- In a text message on November 12, Fox tells Meg Simon that Crates-Miller reached out to her that morning to discuss the FFE Investigation.  
-![](../images/Nov%2012%20-%20Althaus%20"Krista%20Miller%20reached%20out".png)  
+2. **Coordination with Former Boingers Director**:
+	- **November 12**: Alycia (Althaus) Fox informs Meg Simon that Crates-Miller reached out about the FFE Investigation.  
+	![](../images/Nov%2012%20-%20Althaus%20"Krista%20Miller%20reached%20out".png)  
+	- Crates-Miller assists Althaus with her resignation as Boingers director.  
+	![](../images/Althouse%20-%20Asking%20Miller%20to%20Proofread%20Resignation%201.png)  
+	- Coordination of resignation announcement for maximum impact on Kevin Manley.  
+	![](../images/Althouse%20-%20Coordinating%20Resignation%20Release%20with%20Miller.png)  
 
-- Althaus also sought Crates-Miller's counsel on how to word her resignation as director of The Boingers.  
-![](../images/Althouse%20-%20Asking%20Miller%20to%20Proofread%20Resignation%201.png)
+#### Inappropriate Reactions and Comments
+1. **Reaction to Staff Support for FFE**:
+	- Crates-Miller's extreme reaction to Dr. Hatton's secretary wearing red in support of FFE.
+	- Dr. Hatton's inappropriate response: "Please don't shit your pants. That's gross."
+	- Notable: The secretary's position was eliminated shortly after this incident.  
+	![](../images/Our%20Own%20Staff%20Is%20Wearing%20Red.png)  
 
-- Althaus coordinated the annoucement of her resignation with Crates-Miller, to generate maximum negative impact on Kevin Manley.  
-![](../images/Althouse%20-%20Coordinating%20Resignation%20Release%20with%20Miller.png)  
+2. **Insensitive Comments about FFE Performance**:
+	- Dr. Hatton sends "Ts & Ps" (thoughts and prayers) when Crates-Miller attends an event where FFE is performing.
+	- This comment further highlights the prejudice towards FFE by those overseeing the investigation.  
+	![](../images/Hatton%20sends%20Ts%20and%20Ps.png)  
 
+3. **Derogatory Comments about FFE Personnel**:
+	- **January 12**: Crates-Miller refers to Andy Hanes as "god damn choreographer" in a text to Dr. Hatton.
+	- This exchange demonstrates ongoing personal bias influencing the investigation.  
+	![](../images/Jan%2012%20-%20Hatton%20"God%20Damn%20Choreographer".png)   
 
-#### Creates-Miller 'almost shit my pants' when Dr. Hatton's Secretary Wore Red In Support of FFE
-- Dr. Hatton: "Please don't shit your pants. That's gross."
-- The Secretary's position was elimitated and the employee was moved to another role shortly thereafter. 
-![](../images/Our%20Own%20Staff%20Is%20Wearing%20Red.png)  
-
-#### Crates-Miller attended a women's tea where FFE was performing, Dr. Hatton sent "Ts & Ps"
-- The tea was held at Gateway Church. 
-- This comment by Dr. Hatton was completely out of line and further highlights the prejudice towards FFE by those coordinating and overseeing the investiation into the show choir.  
-![](../images/Hatton%20sends%20Ts%20and%20Ps.png)  
-
-#### Crates-Miller: Andy Hanes just a "god damn choreographer"
-- In a text exchange with Dr. Hatton on January 12, Crates-Miller said "No offense (actually all offense) but didn't JD run the program since inception? Would he not be capable of working with a god damn choreographer without a babysitter?"
-- This exchange further highlights the personal bias influecing the investigation, both by Crates-Miller continuing to comment, and Dr. Hatton refusing to halt the conversation.  
-![](../images/Jan%2012%20-%20Hatton%20"God%20Damn%20Choreographer".png)
+#### Conclusion 
+This series of events and communications demonstrates a clear pattern of inappropriate involvement and bias from Krista Crates-Miller in the FFE investigation. Despite an early acknowledgment of her conflict of interest, Crates-Miller remained deeply involved in various aspects of the situation. The communications also reveal a concerning level of prejudice and unprofessional behavior from both Crates-Miller and Dr. Hatton, raising serious questions about the objectivity and fairness of the entire investigative process.
 
 
 ### Dr. Hatton micromanaged the entire investigation process and who Kevin Manley could contact or correspond with
