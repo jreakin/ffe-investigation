@@ -1,9 +1,7 @@
 site_name: Findings From FFE Public Information Request
-
-site_name:
-site_url: 
-repo_url: 
-repo_name: 
+site_url: https://jreakin.github.io/ffe-investigation/
+repo_url: https://github.com/jreakin/ffe-investigation
+repo_name: jreakin/ffe-investigation
 edit_uri: edit/main/docs/
 
 
