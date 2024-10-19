@@ -1,0 +1,68 @@
+site_name: Findings From FFE Public Information Request
+
+site_name:
+site_url: 
+repo_url: 
+repo_name: 
+edit_uri: edit/main/docs/
+
+
+
+nav:
+  - Home: index.md
+
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: pink
+  icon:
+    repo: fontawesome/brands/github
+  features:
+    - toc.integrate
+    - navigation.path
+    - navigation.tracking
+    - search.suggest
+    - content.code.copy
+    - content.code.annotate
+
+plugins:
+  - search:
+      lang: en
+  - social:
+      cards_color:
+        fill: "#F3D503"
+        text: "#000000"
+  - git-revision-date-localized:
+      enable_creation_date: true
+      type: datetime
+  - mkdocstrings:
+      handlers:
+        python:
+          options:
+            annotations_path: brief
+#  - tags
+#  - blog:
+#      blog_dir: ./blog
+
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/jreakin
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/jreakin
+  meta_image: ./imgs/state-voterfile-meta-img.jpg
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
