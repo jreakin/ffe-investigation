@@ -3,7 +3,7 @@ site_url: https://jreakin.github.io/ffe-investigation/
 repo_url: https://github.com/jreakin/ffe-investigation
 repo_name: jreakin/ffe-investigation
 edit_uri: edit/main/docs/
-docs_dir: ffe-investigation-site/docs
+# docs_dir: ffe-investigation-site/docs
 
 
 nav:
