@@ -68,7 +68,7 @@ The denial responses received to the public information request are standard. Th
 ![](../images/Nov 1 - Manley refers to Hatton as "Andy".png)
 
 - In a November 8 email, FCS Principal Meg Simon expressed a desire to sit down with Kevin Manley about "the contents of the FFE parent communication you received". This email confirms Mr. Manley properly reported issues within the show choir, correspondence that was intentionally omitted from the FFE Investigation report, as discussed in my original walkthrough of the inaccuracies and omissions by the investigator.  
-{% include "https://youtu.be/IfcRuU7wA_U?si=HpXkRUnwjhh93Vko&t=607"}
+{% include "https://youtu.be/IfcRuU7wA_U?si=HpXkRUnwjhh93Vko&t=607" %}
 
 ### Krista Crates-Miller is the first person to mention an issue related to FFE
 - On November 2, Crates-Miller sent via text message "we have an FFE problem"  
