@@ -4,7 +4,7 @@
 ![](../images/Nov 1 - Manley refers to Hatton as "Andy".png)
 
 - In a November 8 email, FCS Principal Meg Simon expressed a desire to sit down with Kevin Manley about "the contents of the FFE parent communication you received". This email confirms Mr. Manley properly reported issues within the show choir, correspondence that was intentionally omitted from the FFE Investigation report, as discussed in my original walkthrough of the inaccuracies and omissions by the investigator.  
-![type:video](https://youtu.be/IfcRuU7wA_U?si=HpXkRUnwjhh93Vko&t=607)
+{% include "https://youtu.be/IfcRuU7wA_U?si=HpXkRUnwjhh93Vko&t=607"}
 
 ### Dr. Hatton micromanaged the entire investigation process and who Kevin Manley could contact or correspond with
 - In a November 14 email, Dr. Hatton specifically approved the method and purpose Mr. Manley would be able to correspond with a vendor of FFE. This vendor was not an employee or student within FCS, yet Hatton required his approval for Manley to correspond.   
