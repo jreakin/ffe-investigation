@@ -4,7 +4,7 @@ Dear Reader,
 
 What began as a quest for answers in January 2024 has evolved into an exposé of a system that appears designed to protect its own interests at the expense of truth and the well-being of students and staff.
 
-For months, Findlay City Schools engaged in a calculated campaign of [delays, legal maneuvers, and outright obstruction](./sections/initial_timeline) to prevent the release of crucial information. 
+For months, Findlay City Schools engaged in a calculated campaign of [delays, legal maneuvers, and outright obstruction](./sections/initial_timeline.md) to prevent the release of crucial information. 
 
 [Our legal approach](./sections/Approach%20to%20FCS%20Lawsuit.md) further exposed the administration's hypocrisy. When we filed a lawsuit to compel the release of information, FCS's lawyers moved to dismiss based on technical inaccuracies in our filing. Ironically, this action set a precedent that would render their own FFE investigation report insufficient by the same standards. The threshold for dismissing our lawsuit was lower than the severity of inaccuracies in their report, effectively discrediting their investigation by their own metrics. This maneuver not only highlighted their double standards but also demonstrated that if subjected to the same scrutiny, the FFE report would undoubtedly fail to stand up in court.
 
