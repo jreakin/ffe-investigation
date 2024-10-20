@@ -1,25 +1,44 @@
-site_name: Findings From FFE Public Information Request
+site_name: FFE Investigation Report
 site_url: https://jreakin.github.io/ffe-investigation/
 repo_url: https://github.com/jreakin/ffe-investigation
 repo_name: jreakin/ffe-investigation
 edit_uri: edit/main/docs/
 docs_dir: ffe-investigation-site/docs
-
+use_directory_urls: false
 
 nav:
   - Home: index.md
+  - "Full Report": sections/Key Information from the PIR.md
+
 
 theme:
   name: material
+  toc_depth: 1
   palette:
     scheme: slate
     primary: pink
   icon:
+    # admonition:
+    #       note: octicons/tag-16
+    #       abstract: octicons/checklist-16
+    #       info: octicons/info-16
+    #       tip: octicons/squirrel-16
+    #       success: octicons/check-16
+    #       question: octicons/question-16
+    #       warning: octicons/alert-16
+    #       failure: octicons/x-circle-16
+    #       danger: octicons/zap-16
+    #       bug: octicons/bug-16
+    #       example: octicons/beaker-16
+    #       quote: octicons/quote-16
     repo: fontawesome/brands/github
+    annotation: material/plus-circle
   features:
     - toc.integrate
     - navigation.path
     - navigation.tracking
+    - navigation.sections
+    - navigation.expand
     - search.suggest
     - content.code.copy
     - content.code.annotate
@@ -31,10 +50,10 @@ plugins:
       cards_color:
         fill: "#F3D503"
         text: "#000000"
-  - git-revision-date-localized:
-      fallback_to_build_date: true
-      enable_creation_date: true
-      type: datetime
+  # - git-revision-date-localized:
+  #     fallback_to_build_date: true
+  #     enable_creation_date: true
+  #     type: datetime
   - mkdocstrings:
       handlers:
         python:
@@ -54,20 +73,37 @@ extra:
   meta_image: ./imgs/state-voterfile-meta-img.jpg
 
 markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
   - pymdownx.highlight:
       anchor_linenums: true
       line_spans: __span
       pygments_lang_class: true
   - pymdownx.inlinehilite
   - pymdownx.snippets
+  - pymdownx.details
+  - pymdownx.tabbed:
+      alternate_style: true
   - pymdownx.superfences:
         custom_fences:
           - name: mermaid
             class: mermaid
             format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.magiclink
-  - attr_list
-  - md_in_html
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+
+extra_javascript:
+  - js/pdfjs/build/pdf.js
+  - js/pdfjs/web/viewer.js
+  - js/pdf-loader.js 
+
+extra_css:
+  - js/pdfjs/web/viewer.css
+
+extra_files:
+  - images/
+  - pdfs/
