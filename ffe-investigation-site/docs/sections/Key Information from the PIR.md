@@ -129,11 +129,11 @@ For a detailed breakdown of this issue and its implications, refer to the follow
 ![](../images/Nov%202%20-%20Hatton%20"Close%20to%20home%20for%20Krista%20Miller".png)  
 
 ### Continued Involvement Despite Acknowledged Conflict
-#### 1. Document Handling:
+#### 1. Document Handling:  
 	- **November 20**: Dr. Hatton instructs Crates-Miller to file Kevin Manley's administrative leave notification.  
 	![](../images/Nov%2020%20-%20Hatton%20"For%20the%20File".png)  
 
-#### 2. Coordination with Former Boingers Director:
+#### 2. Coordination with Former Boingers Director:  
 	- **November 12**: Alycia (Althaus) Fox informs Meg Simon that Crates-Miller reached out about the FFE Investigation.  
 	![](../images/Nov%2012%20-%20Althaus%20"Krista%20Miller%20reached%20out".png)  
 	- Crates-Miller assists Althaus with her resignation as Boingers director.  
@@ -142,18 +142,18 @@ For a detailed breakdown of this issue and its implications, refer to the follow
 	![](../images/Althouse%20-%20Coordinating%20Resignation%20Release%20with%20Miller.png)  
 
 ### Inappropriate Reactions and Comments
-#### 1. Reaction to Staff Support for FFE:
+#### 1. Reaction to Staff Support for FFE:  
 	- Crates-Miller's extreme reaction to Dr. Hatton's secretary wearing red in support of FFE.
 	- Dr. Hatton's inappropriate response: "Please don't shit your pants. That's gross."
 	- Notable: The secretary's position was eliminated shortly after this incident.  
 	![](../images/Our%20Own%20Staff%20Is%20Wearing%20Red.png)  
 
-#### 2. Insensitive Comments about FFE Performance:
+#### 2. Insensitive Comments about FFE Performance:  
 	- Dr. Hatton sends "Ts & Ps" (thoughts and prayers) when Crates-Miller attends an event where FFE is performing.
 	- This comment further highlights the prejudice towards FFE by those overseeing the investigation.  
 	![](../images/Hatton%20sends%20Ts%20and%20Ps.png)  
 
-#### 3. Derogatory Comments about FFE Personnel:
+#### 3. Derogatory Comments about FFE Personnel:  
 	- **January 12**: Crates-Miller refers to Andy Hanes as the "god damn choreographer" in a text to Dr. Hatton.
 	- This exchange demonstrates ongoing personal bias influencing the investigation.  
 	![](../images/Jan%2012%20-%20Hatton%20"God%20Damn%20Choreographer".png)   
@@ -163,31 +163,31 @@ This series of events and communications demonstrates a clear pattern of inappro
 
 ---
 
-## Dr. Hatton's Excessive Control Over Kevin Manley's Communications
+## Dr. Hatton's Excessive Control Over Kevin Manley's Communications  
 Dr. Hatton's actions during the FFE investigation reveal a pattern of micromanagement and undue control over Kevin Manley's professional interactions. This level of oversight extends beyond normal administrative procedures, potentially hampering Manley's ability to perform his duties effectively.
 
-### 1. Controlling External Vendor Communications
+### 1. Controlling External Vendor Communications  
 - Date: November 14
 - Incident: Dr. Hatton personally approved the method and purpose of Manley's correspondence with an FFE vendor.
 - Significance: This vendor was not an FCS employee or student, yet Hatton required his approval for communication.
 - Implication: Suggests an unusual level of control over Manley's professional activities, even those outside the school system.
 ![](../images/Nov 14 - Hatton micromanaging costumes .png)  
 
-### 2. Interfering with Routine Teaching Tasks
+### 2. Interfering with Routine Teaching Tasks  
 - Date: November 14
 - Incident: FCS Principal Meg Simon had to seek Dr. Hatton's approval on how to handle lesson plan correspondence with Manley.
 - Significance: Lesson planning is a routine task that typically doesn't require superintendent involvement.
 - Implication: Indicates a breakdown in normal administrative procedures and an overreach of the superintendent's role.  
 ![](../images/Nov 14 - Simon asking Hatton how to handle lesson plans.png)
 
-### 3. Overseeing Minor Administrative Tasks
+### 3. Overseeing Minor Administrative Tasks  
 - Date: November 30
 - Incident: FHS Principal Mark Laux required Dr. Hatton's approval to set up a Google meeting about fabric issues.
 - Significance: Setting up meetings is a basic administrative task that shouldn't require superintendent approval.
 - Implication: Demonstrates the extent of Hatton's involvement in even the most minor aspects of FFE-related activities.  
 ![](../images/Nov 30 - Hatton micromanagaes google meetings.png)
 
-### Analysis and Implications
+### Analysis and Implications  
 1. Disruption of Normal Operations: Dr. Hatton's micromanagement likely caused significant delays and complications in routine school operations.
 2. Potential Bias: This level of control suggests a predisposed attitude towards Manley, potentially compromising the fairness of the investigation.
 3. Chilling Effect: Such oversight may have created an atmosphere of fear or hesitation among staff, potentially affecting their ability to perform their duties or provide unbiased information during the investigation.
@@ -197,27 +197,27 @@ Dr. Hatton's actions during the FFE investigation reveal a pattern of micromanag
 This pattern of micromanagement by Dr. Hatton reveals a concerning level of personal involvement in the FFE investigation, potentially compromising its objectivity and fairness. It also suggests a breakdown in trust and normal administrative procedures within the school district during this period.  
 ---
 
-## Dr. Hatton's Efforts to Limit Positive Testimonies in the FFE Investigation
+## Dr. Hatton's Efforts to Limit Positive Testimonies in the FFE Investigation  
 A concerning incident on December 3 reveals Dr. Hatton's apparent attempt to control the narrative of the FFE investigation by potentially limiting positive testimonies about Kevin Manley.
 
-### The Incident
+### The Incident  
 - Date: December 3
 - Context: An individual requested to speak with the investigator about the FFE situation.
 - Initial Response: FHS Principal Meg Simon sought guidance from Dr. Hatton on how to handle this request.
 
-### Dr. Hatton's Instructions
+### Dr. Hatton's Instructions  
 1. Probing Directive: Hatton instructed Simon to investigate the nature of the individual's inquiry.
 2. Limiting Positive Testimonies: Hatton stated, "If she just want[s] to give a ringing endorsement to Kevin, that's fine but she can send an email."  
 	![](../images/Dec 3 - Hatton instructs principals to probe.png)
 
-### Analysis of Hatton's Response
+### Analysis of Hatton's Response  
 1. **Selective Participation**: By suggesting that positive testimonies be limited to email format, Hatton appears to be creating a barrier for supporters of Manley/FFE to directly speak with the investigator.
 2. **Potential Bias in Investigation**: This approach suggests a predisposition towards collecting negative information about Kevin Manley and FFE, while potentially downplaying or marginalizing positive feedback.
 3. **Compromised Objectivity**: An unbiased investigation should welcome all perspectives, whether positive or negative. Hatton's instructions indicate a possible intent to shape the investigation's outcome.
 4. **Procedural Irregularity**: Directing a principal to probe into the nature of a witness's testimony before allowing them to speak with the investigator is ethically questionable and could be seen as an attempt to filter information.
 5. **Potential Intimidation**: Knowledge that their intent to speak would be pre-screened could discourage some supporters from coming forward, further skewing the investigation's findings.
 
-### Implications
+### Implications  
 1. **Integrity of the Investigation**: This incident raises serious questions about the overall fairness and comprehensiveness of the FFE investigation.
 2. **Administrative Overreach**: Dr. Hatton's involvement in determining who gets to speak directly with the investigator suggests an inappropriate level of control over the investigative process.
 3. **Potential for Skewed Results**: By potentially limiting direct positive testimonies, the investigation's findings could be disproportionately negative, leading to an unfair representation of Kevin Manley and FFE.
@@ -226,17 +226,17 @@ A concerning incident on December 3 reveals Dr. Hatton's apparent attempt to con
 This incident reinforces concerns that the FFE investigation may have been conducted with a predetermined negative outcome in mind, rather than as an impartial fact-finding mission. It underscores the need for a thorough review of the investigation's methodology and findings.  
 ---
 
-## FCS Administration's Problematic Handling of the FFE Investigation
+## FCS Administration's Problematic Handling of the FFE Investigation  
 This analysis highlights three key issues in the Findlay City Schools (FCS) administration's management of the FFE investigation: lack of communication, inconsistent decision-making, and questionable integrity in the process.
 
-### 1. Failure to Communicate with FFE Parents
+### 1. Failure to Communicate with FFE Parents  
 - **Date**: December 18
 - **Issue**: A parent (also an FCS employee) expressed frustration over lack of updates.
 - **Key Quote**: "No update or at least a reassurance that things are still moving along."
 - **Implication**: This lack of communication for over a month suggests a breakdown in transparency and potentially erodes trust between the administration and FFE families.  
 ![](../images/Dec 18 - Parent:Employee Reaches Out About Lack of Communication.png)
 
-### 2. Inconsistent Approach to Addressing FFE Culture Issues
+### 2. Inconsistent Approach to Addressing FFE Culture Issues  
 - **Date**: January 16
 - **Action**: Dr. Hatton asks Mr. Manley to propose solutions for FFE's cultural issues.
 - **Key Quote**: "Ideas you have to address the concerns you are away of to enhance the culture of FFE in both the short and long term."
@@ -244,7 +244,7 @@ This analysis highlights three key issues in the Findlay City Schools (FCS) admi
 - **Implication**: This request raises questions about the administration's understanding of the situation and their approach to resolving it.  
   ![](../images/Jan 16 - Hatton to Manley "Come up with proposal".png)
 
-### 3. Questionable Integrity in Decision-Making
+### 3. Questionable Integrity in Decision-Making  
 - **Date**: January 12
 - **Statement**: Dr. Hatton emphasizes the need to "stick to my word" regarding Mr. Manley's involvement.
 - **Key Quote**: "I need to stick to my word that Kevin cannot return to rehearsals/directing until this thing is done."
@@ -252,7 +252,7 @@ This analysis highlights three key issues in the Findlay City Schools (FCS) admi
 - **Implication**: This inconsistency between words and actions raises concerns about the integrity of the investigation process and Dr. Hatton's leadership.  
 	![](../images/Jan 12 - Hatton "Needs to stick to his word".png)
 
-### Analysis and Implications
+### Analysis and Implications  
 1. **Communication Breakdown**: The lack of updates to FFE parents for over a month indicates a significant failure in stakeholder communication, potentially damaging trust and transparency.
 2. **Contradictory Decision-Making**: Asking Mr. Manley to propose solutions to cultural issues he's allegedly responsible for creating demonstrates inconsistent and potentially flawed problem-solving approaches.
 3. **Questionable Integrity**: Dr. Hatton's emphasis on "sticking to his word" while having a history of not doing so raises serious concerns about the credibility and consistency of his leadership.
