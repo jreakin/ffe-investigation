@@ -13,6 +13,7 @@ mkdocs-social-plugin = "^0.1.0"
 mkdocstrings = {extras = ["python"], version = "^0.26.2"}
 mkdocs-video = "^1.5.0"
 mkdocs-toc-sidebar-plugin = "^0.1.0"
+pymdown-extensions = "^10.11.2"
 
 
 [build-system]

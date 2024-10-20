@@ -6,7 +6,7 @@ What began as a quest for answers in January 2024 has evolved into an exposé of
 
 For months, Findlay City Schools engaged in a calculated campaign of [delays, legal maneuvers, and outright obstruction](./sections/initial_timeline) to prevent the release of crucial information. 
 
-Our legal approach further exposed the administration's hypocrisy. When we filed a lawsuit to compel the release of information, FCS's lawyers moved to dismiss based on technical inaccuracies in our filing. Ironically, this action set a precedent that would render their own FFE investigation report insufficient by the same standards. The threshold for dismissing our lawsuit was lower than the severity of inaccuracies in their report, effectively discrediting their investigation by their own metrics. This maneuver not only highlighted their double standards but also demonstrated that if subjected to the same scrutiny, the FFE report would undoubtedly fail to stand up in court.
+[Our legal approach](./sections/Approach%20to%20FCS%20Lawsuit.md) further exposed the administration's hypocrisy. When we filed a lawsuit to compel the release of information, FCS's lawyers moved to dismiss based on technical inaccuracies in our filing. Ironically, this action set a precedent that would render their own FFE investigation report insufficient by the same standards. The threshold for dismissing our lawsuit was lower than the severity of inaccuracies in their report, effectively discrediting their investigation by their own metrics. This maneuver not only highlighted their double standards but also demonstrated that if subjected to the same scrutiny, the FFE report would undoubtedly fail to stand up in court.
 
 Their actions begged the question: **What were they so desperate to hide?**
 
@@ -19,7 +19,7 @@ This report lays bare the facts that Findlay City Schools tried so hard to conce
 As you read through this report, prepare to be outraged. The level of misconduct uncovered demands not just attention, but action. It's time to hold those responsible accountable and to ensure that such a travesty never occurs again in our school district.
 
 Signed,  
-![Signature](images/signature.png)
+![Signature](images/signature.png){ width="200" }
 
 John R. Eakin
 

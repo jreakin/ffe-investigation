@@ -9,6 +9,7 @@ use_directory_urls: false
 nav:
   - Home: index.md
   - "Full Report": sections/Key Information from the PIR.md
+  - "Lawsuit Strategy": sections/Approach to FCS Lawsuit.md
 
 
 theme:
@@ -17,6 +18,7 @@ theme:
   palette:
     scheme: slate
     primary: pink
+    accent: red
   icon:
     # admonition:
     #       note: octicons/tag-16
@@ -50,10 +52,6 @@ plugins:
       cards_color:
         fill: "#F3D503"
         text: "#000000"
-  # - git-revision-date-localized:
-  #     fallback_to_build_date: true
-  #     enable_creation_date: true
-  #     type: datetime
   - mkdocstrings:
       handlers:
         python:
@@ -100,6 +98,7 @@ extra_javascript:
   - js/pdfjs/build/pdf.js
   - js/pdfjs/web/viewer.js
   - js/pdf-loader.js 
+  - dark_mode.js
 
 extra_css:
   - js/pdfjs/web/viewer.css

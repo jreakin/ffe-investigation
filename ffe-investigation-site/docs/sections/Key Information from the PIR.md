@@ -83,7 +83,8 @@ The exclusion of this email from the investigation report raises serious questio
 !!! abstract "Key Takeaways"
 	1. The initial cordial relationship between Manley and Hatton, as evidenced by informal communication.
 	2. Confirmation that Manley properly reported FFE issues, contradicting any claims of negligence.
-	3. The deliberate omission of crucial evidence from the investigation report, raising concerns about its credibility and objectivity.
+	3. The deliberate omission of crucial evidence from the investigation report, raising concerns about its credibility and objectivity.  
+	
 ---
 
 ## FCS Assistant Superintendent's Problematic Involvement in the FFE Investigation
