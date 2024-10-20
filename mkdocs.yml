@@ -68,7 +68,7 @@ extra:
       link: https://twitter.com/jreakin
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/jreakin
-  meta_image: ./imgs/state-voterfile-meta-img.jpg
+  meta_image: images/cover_img.jpeg
 
 markdown_extensions:
   - admonition
