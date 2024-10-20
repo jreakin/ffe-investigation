@@ -51,7 +51,7 @@ plugins:
   - social:
       cards_layout_options:
         background_color: red
-        background_image: images/cover_img.jpg  # Background color for the social card
+        background_image: images/cover_img.jpeg  # Background color for the social card
         # color: "#000000"              # Text color for the social card
 
   - mkdocstrings:
@@ -70,7 +70,7 @@ extra:
       link: https://twitter.com/jreakin
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/jreakin
-  meta_image: images/cover_img.jpg
+  meta_image: images/cover_img.jpeg
 
 markdown_extensions:
   - admonition
