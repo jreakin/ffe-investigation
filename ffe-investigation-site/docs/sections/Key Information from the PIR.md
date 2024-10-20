@@ -1,66 +1,37 @@
-# Explanation of Approach to Lawsuit Against Findlay City Schools
-
-### Background and Motivation
-
-After receiving an unsatisfactory response from Findlay City Schools (FCS) regarding the credibility of their investigation, despite glaring factual inaccuracies, and facing what appeared to be obstruction in obtaining requested information through a public information request, Eakin filed a lawsuit in May 2024. The goal was to compel FCS to produce the requested documents.
-
-### Strategic Approach
-
-Eakin's methodology in approaching the lawsuit was deliberately designed to mirror FCS's approach when presented with factual inaccuracies in their own investigation report. This strategy was intended to highlight the double standard in how accuracy and credibility were being treated.
-
-### Initial Filing and Response
-
-1. Eakin filed the initial lawsuit pro se (representing himself without a lawyer).
-2. FCS's lawyers responded with a motion to dismiss, citing tech inaccuracies in Eakin's original filing.
-3. Eakin, aware that his non-professional legal filing might contain imperfections, chose not to correct these issues.
-
-### Mirroring FCS's Approach
-
-Instead of modifying or updating the lawsuit to address the cited inaccuracies, Eakin deliberately chose to maintain his original filing. This decision was made to parallel FCS's own stance of supporting their investigation report despite its flaws. Eakin insisted that the issues raised were merely technical, not factual, mirroring the school district's defense of their own report.
-
-### Notable Observations
-
-1. FCS's motion to dismiss did not deny or dispute any of Eakin's accusations regarding obstruction, stonewalling, or speculated motivations.
-2. The focus of FCS's response was solely on procedural flaws in Eakin's suit, not on the substance of his claims.
-
-### Outcome and Implications
-
-1. The court granted the motion to dismiss based on the technical inaccuracies in Eakin's filing.
-2. The threshold for dismissing the lawsuit was lower than the level severities within the FCS's FFE investigation report.
-3. This outcome suggests that if Eakin's suit was deemed insufficient on technical grounds, the FFE investigation report, with its factual inaccuracies, would undoubtedly not stand up to scrutiny either.
-
+---
+toc_depth: 2
 ---
 
-# What Findlay City Schools Denied To Providing In Response To My Public Information Request
-The denial responses received to the public information request are standard. These types of statements are often referred to as "boilerplate" denials or qualifications commonly used by public entities when replying to information requests. The intended purpose is to cover a wide range of potential legal and procedural issues.
-
-> Please be advised, your request is denied because it is overly broad and ambiguous. In providing a response to a request, the District is not required “to do research or to identify records containing selected information” or produce an entire category of records. See State ex rel. Fant v. Tober, 8th Dist. Cuyahoga No. 63737, 1993 WL 173743, *1 (Apr. 28, 1993), aff'd, 68 Ohio St.3d 117 (1993). Instead, a requester must identify the records he or she is seeking “with reasonable clarity.” State ex rel. Glasgow v. Jones, 119 Ohio St.3d 391, 2008-Ohio-4788, ¶17. Requests for general categories of content or which seek all records “regarding or related to” a specified topic are overbroad. Morgan v. Strickland, 121 Ohio St.3d 600, 2009-Ohio-1901, at ¶ 14–15. Likewise, requests seeking all correspondence between certain senders/recipients over expansive periods of time and/or involving vague subject matters or keywords do not permit the District sufficient clarity to identify responsive records. See Patton v. Univ. of Akron, Ct. of Cl. No. 2017-00820PQ, 2018-Ohio-1555, ¶ 10; Hicks v. Newtown, Ct. of Cl. No. 2017-Ohio-00612-PQ, 2017-Ohio-8952, ¶ 8. As such, your request lacks specificity and particularity, and invariably requests documents or categories of documents that do not exist or do not align with the District’s record retention schedule (attached)  
-
-
-> Your request is further denied in part to the extent it seeks documents and records that are protected from release in accordance with state and/or federal law. For example, records covered by the attorney-client are protected from release. This includes legal advice of any kind and communications between the District and its legal counsel. State ex rel. Leslie v. Ohio Hous. Fin. Agency, 105 Ohio St.3d 261, 2005-Ohio-1508. Similarly, any records containing either the education records or the non-directory, personally identifiable information of students are not subject to release. 20 USC 1232g (FERPA); R.C. 3319.321. Any record that “directly relates” to a student is considered the educational record of that student and is therefore confidential. 34 C.F.R. § 99.3. Id. This protection also pertains to information that, alone or in combination, is linked or linkable to a specific student that would allow a reasonable person in the school community, who does not have personal knowledge of the relevant circumstances, to identify the student with reasonable certainty. Federal law further protects from release any information requested by a person who the District reasonably believes knows the identity of the student to whom the education record relates. This further includes the personal notes of District employees and officials, which are not considered public records for the purposes of R.C. 149.43. See Hunter v. Ohio Bur. of Workers’ Comp., 10th Dist. No. 13AP-457, 2014-Ohio-5660, 16-17, 23-35.  
-
-
-> Finally, your request is denied in part to the extent you seek records that do not constitute public records, are protected from release, and/or do not exist. A public office is not obligated to create records in response to a request for unrecorded or not-currently-recorded information, rather than a request for specific existing records containing such information. State ex rel. White v. Goldsberry, 85 Ohio St.3d 153, 154, 1999-Ohio-447 (a public office has “no duty under R.C. 149.43 to create new records.”). Additionally, the District has no obligation to identify those documents not produced or that do not exist, as this would amount to the creation of a privilege log, which the District has “no duty under R.C. 149.43 to submit.” State ex rel. Lanham v. DeWine, 135 Ohio St.3d 191, 2013-Ohio-199.  
-
----
 # What is **not** in the information requested from Findlay City Schools
+
+!!! tip inline end
+    While many documents were heavily redacted to protect individual privacy, any existing documents describing cultural problems should have been included, even if partially redacted.  
+
 1. **Investigator Contract Absent**
 	- No contract or agreement was provided showing the terms of engagement between Findlay City Schools and the investigator or investigative agency.
 2. **Lack of 'Culture' Issue Details**
 	- The response did not include specific information about the alleged "culture" issues within Findlay First Edition (FFE).
-
-*Note: While many documents were heavily redacted to protect individual privacy, any existing documents describing cultural problems should have been included, even if partially redacted.*
-
 ## These omissions are significant because:
 - The missing contract raises questions about the scope and parameters of the investigation.
 - The absence of details about cultural issues leaves the nature and extent of the problems unclear, despite being a central concern in the investigation.  
 
+???+ abstract "Information Withheld by Findlay City Schools in Response to Public Records Request"
+	The denial responses received to the public information request were standard. These types of statements are often referred to as "boilerplate" denials or qualifications commonly used by public entities when replying to information requests. The intended purpose is to cover a wide range of potential legal and procedural issues.
+
+	??? quote "Read Boilerplate Denials"
+		Please be advised, your request is denied because it is overly broad and ambiguous. In providing a response to a request, the District is not required “to do research or to identify records containing selected information” or produce an entire category of records. See State ex rel. Fant v. Tober, 8th Dist. Cuyahoga No. 63737, 1993 WL 173743, *1 (Apr. 28, 1993), aff'd, 68 Ohio St.3d 117 (1993). Instead, a requester must identify the records he or she is seeking “with reasonable clarity.” State ex rel. Glasgow v. Jones, 119 Ohio St.3d 391, 2008-Ohio-4788, ¶17. Requests for general categories of content or which seek all records “regarding or related to” a specified topic are overbroad. Morgan v. Strickland, 121 Ohio St.3d 600, 2009-Ohio-1901, at ¶ 14–15. Likewise, requests seeking all correspondence between certain senders/recipients over expansive periods of time and/or involving vague subject matters or keywords do not permit the District sufficient clarity to identify responsive records. See Patton v. Univ. of Akron, Ct. of Cl. No. 2017-00820PQ, 2018-Ohio-1555, ¶ 10; Hicks v. Newtown, Ct. of Cl. No. 2017-Ohio-00612-PQ, 2017-Ohio-8952, ¶ 8. As such, your request lacks specificity and particularity, and invariably requests documents or categories of documents that do not exist or do not align with the District’s record retention schedule (attached)  
+
+
+		Your request is further denied in part to the extent it seeks documents and records that are protected from release in accordance with state and/or federal law. For example, records covered by the attorney-client are protected from release. This includes legal advice of any kind and communications between the District and its legal counsel. State ex rel. Leslie v. Ohio Hous. Fin. Agency, 105 Ohio St.3d 261, 2005-Ohio-1508. Similarly, any records containing either the education records or the non-directory, personally identifiable information of students are not subject to release. 20 USC 1232g (FERPA); R.C. 3319.321. Any record that “directly relates” to a student is considered the educational record of that student and is therefore confidential. 34 C.F.R. § 99.3. Id. This protection also pertains to information that, alone or in combination, is linked or linkable to a specific student that would allow a reasonable person in the school community, who does not have personal knowledge of the relevant circumstances, to identify the student with reasonable certainty. Federal law further protects from release any information requested by a person who the District reasonably believes knows the identity of the student to whom the education record relates. This further includes the personal notes of District employees and officials, which are not considered public records for the purposes of R.C. 149.43. See Hunter v. Ohio Bur. of Workers’ Comp., 10th Dist. No. 13AP-457, 2014-Ohio-5660, 16-17, 23-35.  
+
+
+		Finally, your request is denied in part to the extent you seek records that do not constitute public records, are protected from release, and/or do not exist. A public office is not obligated to create records in response to a request for unrecorded or not-currently-recorded information, rather than a request for specific existing records containing such information. State ex rel. White v. Goldsberry, 85 Ohio St.3d 153, 154, 1999-Ohio-447 (a public office has “no duty under R.C. 149.43 to create new records.”). Additionally, the District has no obligation to identify those documents not produced or that do not exist, as this would amount to the creation of a privilege log, which the District has “no duty under R.C. 149.43 to submit.” State ex rel. Lanham v. DeWine, 135 Ohio St.3d 191, 2013-Ohio-199.  
 ---
 
 ## Suspicious Timing: Crisis Intervention Team Information Shared Prior to Reported Issues
 On October 19, a significant exchange occurred between key figures in the Findlay City Schools administration:
 
-- **Sender**: Krista Crates-Miller
+- **Sender**: Assistant Superintendent
 - **Recipient**: Dr. Hatton (Superintendent)
 - **Content**: 'Crisis Intervention Team' pamphlet
 
@@ -92,7 +63,8 @@ On October 19, a significant exchange occurred between key figures in the Findla
 	- Notably, Manley referred to the Superintendent as "Andy," indicating a friendly, informal relationship.
 
 - **Post-November 10**: Even after the initial meeting about FFE concerns, Manley continued to address Hatton as "Andy."
-	- This suggests the relationship remained cordial despite emerging issues.
+	- This suggests the relationship remained cordial despite emerging issues.  
+
 	![](../images/Nov 1 - Manley refers to Hatton as "Andy".png)
 
 ### Confirmation of Proper Reporting by Manley
@@ -103,75 +75,76 @@ On October 19, a significant exchange occurred between key figures in the Findla
 	- Importantly, this correspondence was omitted from the FFE Investigation report.
 
 ### Significance of the Omission
-The exclusion of this email from the investigation report raises serious questions about the thoroughness and impartiality of the investigation. As discussed in the original analysis of the report's inaccuracies and omissions, this omission appears to be intentional and potentially misleading.
+The exclusion of this email from the investigation report raises serious questions about the thoroughness and impartiality of the investigation. As discussed in the original analysis of the report's inaccuracies and omissions (1), this omission appears to be intentional and potentially misleading.  
+{ .annotate } 
 
-For a detailed breakdown of this issue and its implications, refer to the following video segment:  
-{% include "https://youtu.be/IfcRuU7wA_U?si=HpXkRUnwjhh93Vko&t=607" %}
+1. <iframe width="560" height="315" src="https://www.youtube.com/embed/IfcRuU7wA_U?si=soU0GM28Gd8X-ysh&amp;controls=0&amp;start=607" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### Key Takeaways 
-1. The initial cordial relationship between Manley and Hatton, as evidenced by informal communication.
-2. Confirmation that Manley properly reported FFE issues, contradicting any claims of negligence.
-3. The deliberate omission of crucial evidence from the investigation report, raising concerns about its credibility and objectivity.
+!!! abstract "Key Takeaways"
+	1. The initial cordial relationship between Manley and Hatton, as evidenced by informal communication.
+	2. Confirmation that Manley properly reported FFE issues, contradicting any claims of negligence.
+	3. The deliberate omission of crucial evidence from the investigation report, raising concerns about its credibility and objectivity.
 ---
 
-## Krista Crates-Miller's Problematic Involvement in the FFE Investigation
+## FCS Assistant Superintendent's Problematic Involvement in the FFE Investigation
 ### Initial Identification of the "FFE Problem"
-- **November 2**: Crates-Miller first mentions an "FFE problem" via text message.  
+- **November 2**: Assistant Superintendent first mentions an "FFE problem" via text message.  
 ![](../images/Nov%202%20-%20Krista%20Miller%20"We%20have%20an%20FFE%20problem".png)  
 
 ### Acknowledged Conflict of Interest
-- **20 minutes later**: Dr. Hatton texts Principal Meg Simon, stating the issue "hits close to home for Krista."
+- **20 minutes later**: Dr. Hatton texts Principal Meg Simon, stating the issue "hits close to home for [Assistant Superintendent]."
 - This acknowledgment suggests:
-	1. Crates-Miller has strong personal feelings about the matter.
+	1. Assistant Superintendent has strong personal feelings about the matter.
 	2. Potential for unconscious or conscious bias in her approach.
 	3. Difficulty in separating personal feelings from professional responsibilities.
-	4. Implicit recusal of Crates-Miller from the "FFE problem" to maintain integrity.   
+	4. Implicit recusal of the Assistant Superintendentfrom the "FFE problem" to maintain integrity.   
 ![](../images/Nov%202%20-%20Hatton%20"Close%20to%20home%20for%20Krista%20Miller".png)  
 
 ### Continued Involvement Despite Acknowledged Conflict
 #### 1. Document Handling:  
-- **November 20**: Dr. Hatton instructs Crates-Miller to file Kevin Manley's administrative leave notification.  
+- **November 20**: Dr. Hatton instructs Assistant Superintendent to file Kevin Manley's administrative leave notification.  
 ![](../images/Nov%2020%20-%20Hatton%20"For%20the%20File".png)  
 
 #### 2. Coordination with Former Boingers Director:  
-- **November 12**: Alycia (Althaus) Fox informs Meg Simon that Crates-Miller reached out about the FFE Investigation.  
+- **November 12**: Alycia (Althaus) Fox informs Meg Simon that Assistant Superintendent reached out about the FFE Investigation.  
 ![](../images/Nov%2012%20-%20Althaus%20"Krista%20Miller%20reached%20out".png)  
-- Crates-Miller assists Althaus with her resignation as Boingers director.  
+- Assistant Superintendent assists Althaus with her resignation as Boingers director.  
 ![](../images/Althouse%20-%20Asking%20Miller%20to%20Proofread%20Resignation%201.png)  
 - Coordination of resignation announcement for maximum impact on Kevin Manley.  
 ![](../images/Althouse%20-%20Coordinating%20Resignation%20Release%20with%20Miller.png)  
 
 ### Inappropriate Reactions and Comments
 #### 1. Reaction to Staff Support for FFE:  
-- Crates-Miller's extreme reaction to Dr. Hatton's secretary wearing red in support of FFE.
+- Assistant Superintendent's extreme reaction to Dr. Hatton's secretary wearing red in support of FFE.
 - Dr. Hatton's inappropriate response: "Please don't shit your pants. That's gross."
 - Notable: The secretary's position was eliminated shortly after this incident.  
 ![](../images/Our%20Own%20Staff%20Is%20Wearing%20Red.png)  
 
 #### 2. Insensitive Comments about FFE Performance:  
-- Dr. Hatton sends "Ts & Ps" (thoughts and prayers) when Crates-Miller attends an event where FFE is performing.
+- Dr. Hatton sends "Ts & Ps" (thoughts and prayers) when Assistant Superintendent attends an event where FFE is performing.
 - This comment further highlights the prejudice towards FFE by those overseeing the investigation.  
 ![](../images/Hatton%20sends%20Ts%20and%20Ps.png)  
 
 #### 3. Derogatory Comments about FFE Personnel:  
-- **January 12**: Crates-Miller refers to Andy Hanes as the "god damn choreographer" in a text to Dr. Hatton.
+- **January 12**: Assistant Superintendent refers to Andy Hanes as the "god damn choreographer" in a text to Dr. Hatton.
 - This exchange demonstrates ongoing personal bias influencing the investigation.  
 ![](../images/Jan%2012%20-%20Hatton%20"God%20Damn%20Choreographer".png)   
 
-### Conclusion  
-This series of events and communications demonstrates a clear pattern of inappropriate involvement and bias from Krista Crates-Miller in the FFE investigation. Despite an early acknowledgment of her conflict of interest, Crates-Miller remained deeply involved in various aspects of the situation. The communications also reveal a concerning level of prejudice and unprofessional behavior from both Crates-Miller and Dr. Hatton, raising serious questions about the objectivity and fairness of the entire investigative process.
+!!! Summary
+	This series of events and communications demonstrates a clear pattern of inappropriate involvement and bias from the Assistant Superintendent in the FFE investigation. Despite an early acknowledgment of her conflict of interest, Assistant Superintendent remained deeply involved in various aspects of the situation. The communications also reveal a concerning level of prejudice and unprofessional behavior from both the Assistant Superintendent and Dr. Hatton, raising serious questions about the objectivity and fairness of the entire investigative process.
 
 ---
 ## Premature Disclosure of Administrative Action: A Timeline Discrepancy  
-A critical timeline discrepancy has been uncovered regarding Kevin Manley's administrative leave, raising serious questions about the handling of sensitive personnel matters and potential bias in the FFE investigation.
+!!! warning "Critical timeline discrepancy uncovered"
+	Raising serious questions about the handling of sensitive personnel matters and potential bias in the FFE investigation.
 
 ### Key Events on November 12:
-- **10:37 AM**: Krista Crates-Miller contacts Alycia Althaus about Manley's administrative leave.
+- **10:37 AM**: Assistant Superintendent contacts Alycia Althaus about Manley's administrative leave.
 - **6:31 PM**: Kevin Manley is officially notified of his placement on administrative leave.  
 ![](../images/Nov%2012%20-%20Administrative%20Leave.png)  
 
 ### Analysis of the Discrepancy
-- **Premature Disclosure**: Crates-Miller discussed Manley's administrative leave with Althaus nearly 8 hours before Manley himself was informed. This represents a significant breach of professional ethics and possibly legal protocols.
+- **Premature Disclosure**: Assistant Superintendent discussed Manley's administrative leave with Althaus nearly 8 hours before Manley himself was informed. This represents a significant breach of professional ethics and possibly legal protocols.
 - **Violation of Confidentiality**: Personnel actions, especially disciplinary measures, are typically highly confidential. The early disclosure to Althaus suggests a concerning lack of discretion and potentially improper information sharing.
 - **Potential Prejudice**: Informing Althaus, a former colleague, before the affected party (Manley) suggests a possible attempt to shape narratives or gather support against Manley before he could respond.
 - **Procedural Irregularity**: Standard practice dictates that an employee should be the first to know about actions affecting their employment status. This deviation raises questions about the fairness and professionalism of the process.
@@ -181,7 +154,8 @@ A critical timeline discrepancy has been uncovered regarding Kevin Manley's admi
 - **Potential Bias**: The premature disclosure to Althaus may indicate a predetermined stance against Manley, raising concerns about the objectivity of the entire investigation.
 - **Legal and Ethical Concerns**: This breach of protocol could potentially expose the school district to legal challenges regarding their handling of personnel matters.
 
-This timeline discrepancy is not merely a procedural misstep but a serious indication of potential misconduct in the handling of the FFE investigation. It underscores the need for a thorough review of the administration's actions throughout the FFE investigation and raises questions about the fairness and integrity of the entire process.  
+!!! failure "Summary"
+	This timeline discrepancy is not merely a procedural misstep but a serious indication of potential misconduct in the handling of the FFE investigation. It underscores the need for a thorough review of the administration's actions throughout the FFE investigation and raises questions about the fairness and integrity of the entire process.  
 
 ---
 
@@ -217,7 +191,8 @@ Dr. Hatton's actions during the FFE investigation reveal a pattern of micromanag
 4. **Questionable Use of Resources**: The superintendent's time and attention were diverted to minor tasks, potentially at the expense of more critical district-wide responsibilities.
 5. **Procedural Irregularities**: The deviation from standard administrative practices raises questions about the motivation behind such intense scrutiny and its impact on the investigation's integrity.  
 
-This pattern of micromanagement by Dr. Hatton reveals a concerning level of personal involvement in the FFE investigation, potentially compromising its objectivity and fairness. It also suggests a breakdown in trust and normal administrative procedures within the school district during this period.  
+!!! danger "Summary"
+	This pattern of micromanagement by Dr. Hatton reveals a concerning level of personal involvement in the FFE investigation, potentially compromising its objectivity and fairness. It also suggests a breakdown in trust and normal administrative procedures within the school district during this period.  
 
 ---
 
@@ -247,7 +222,9 @@ A concerning incident on December 3 reveals Dr. Hatton's apparent attempt to con
 3. **Potential for Skewed Results**: By potentially limiting direct positive testimonies, the investigation's findings could be disproportionately negative, leading to an unfair representation of Kevin Manley and FFE.
 4. **Erosion of Trust**: Such actions, if known to the school community, could erode trust in the administration's ability to conduct fair and unbiased investigations.   
 
-This incident reinforces concerns that the FFE investigation may have been conducted with a predetermined negative outcome in mind, rather than as an impartial fact-finding mission. It underscores the need for a thorough review of the investigation's methodology and findings.  
+
+!!! warning "Summary"
+	This incident reinforces concerns that the FFE investigation may have been conducted with a predetermined negative outcome in mind, rather than as an impartial fact-finding mission. It underscores the need for a thorough review of the investigation's methodology and findings.  
 
 ---
 
@@ -284,7 +261,8 @@ This analysis highlights three key issues in the Findlay City Schools (FCS) admi
 4. **Potential Bias**: These actions collectively suggest a possibly predetermined outcome for the investigation, rather than an objective fact-finding process.
 5. **Stakeholder Trust**: The combination of poor communication, inconsistent decision-making, and questionable integrity likely eroded trust among FFE families, staff, and the broader school community.  
 
-This series of events paints a picture of an administration struggling with transparency, consistency, and integrity in handling the FFE investigation. It raises significant questions about the fairness of the process and the motivations behind the administration's actions.  
+!!! abstract "Summary"
+	This series of events paints a picture of an administration struggling with transparency, consistency, and integrity in handling the FFE investigation. It raises significant questions about the fairness of the process and the motivations behind the administration's actions.  
 
 ## Principal Meg Simon's Critique of Manley's Communication Under Duress  
 On January 22, an email from Findlay High School Principal Meg Simon revealed a critical assessment of Kevin Manley's communication style during a period of heightened scrutiny. This incident provides insight into the pressures Manley faced and the administration's expectations during the FFE investigation.
@@ -295,10 +273,12 @@ On January 22, an email from Findlay High School Principal Meg Simon revealed a 
 - **To**: Kevin Manley (implied)
 - **Context**: Manley had delivered a message to the students after school relating to the FFE cultural concerns.  
 
-### Simon's Critique
-Simon's email contained two key points of criticism:
-1. **Lack of Conviction**: "While your message this afternoon hit the points we brainstormed, it lacked conviction..."
-2. **Need for Firmness**: "We need to regroup and plan for how you can deliver a more firm message."  
+### Simon's Critique  
+
+Simon's email contained two key points of criticism:  
+	1. **Lack of Conviction**: "While your message this afternoon hit the points we brainstormed, it lacked conviction..."  
+	2. **Need for Firmness**: "We need to regroup and plan for how you can deliver a more firm message."  
+
 ![](../images/Jan%2022%20-%20Simon%20Manley%20Wasn't%20Convincing%20ENough.png)  
 
 ### Unpacking the Absurdity
@@ -312,14 +292,16 @@ Simon's email contained two key points of criticism:
 - **Pressure to Misrepresent**: Asking Manley to deliver a message with more "firmness" than he naturally feels is tantamount to asking him to misrepresent himself and potentially the situation.
 - **Disregard for Personal Integrity**: Simon's expectations show a complete disregard for Manley's personal integrity and his right to communicate in a way that aligns with his true feelings and personality.  
 
-This incident starkly illustrates the administration's misguided priorities during the FFE investigation. By valuing aggressive posturing over authentic communication, Simon not only does a disservice to Manley but also undermines the integrity of the entire process. It's a troubling example of how the pursuit of a particular narrative can lead to unreasonable and potentially harmful expectations.
+
+!!! danger "Summary"
+	This incident starkly illustrates the administration's misguided priorities during the FFE investigation. By valuing aggressive posturing over authentic communication, Simon not only does a disservice to Manley but also undermines the integrity of the entire process. It's a troubling example of how the pursuit of a particular narrative can lead to unreasonable and potentially harmful expectations.
 
 ---
 
 ## Recommended Actions for Findlay City School Board
 
 1. **Immediate Administrative Leave**
-	- Place Dr. Andy Hatton (Superintendent) and Krista Crates-Miller on administrative leave pending a thorough, independent investigation.
+	- Place Dr. Andy Hatton (Superintendent) and Assistant Superintendent on administrative leave pending a thorough, independent investigation.
 
 2. **Independent Investigation**
 	- Commission an independent, external investigation into the conduct of the FFE investigation, focusing on:
@@ -333,7 +315,7 @@ This incident starkly illustrates the administration's misguided priorities duri
 3. **Disciplinary Actions**
 	- Based on the findings of the independent investigation, consider:
 		1. Termination of Dr. Andy Hatton for misconduct and abuse of power
-		2. Termination of Krista Crates-Miller for conflict of interest and unethical behavior
+		2. Termination of Assistant Superintendent for conflict of interest and unethical behavior
 		3. Disciplinary action against Principal Meg Simon for inappropriate pressure on staff
 		4. Review the roles of other administrators involved and take appropriate action
 

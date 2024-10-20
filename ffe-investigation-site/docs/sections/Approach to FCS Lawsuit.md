@@ -2,7 +2,11 @@
 
 ### Background and Motivation
 
-After receiving an unsatisfactory response from Findlay City Schools (FCS) regarding the credibility of their investigation, despite glaring factual inaccuracies, and facing what appeared to be obstruction in obtaining requested information through a public information request, Eakin filed a lawsuit in May 2024. The goal was to compel FCS to produce the requested documents.
+After receiving an unsatisfactory response (1) from Findlay City Schools (FCS) to our letter (2), despite glaring factual inaccuracies, and facing what appeared to be obstruction in obtaining requested information through a public information request, Eakin filed a lawsuit in May 2024. The goal was to compel FCS to produce the requested documents.  
+{ .annotate }  
+
+1. <iframe src="https://drive.google.com/file/d/1t00cUBc_Syo6YwKubM12fOcaQFBMyFIB/preview" width="100%" height="800px" allow="autoplay"></iframe>
+2. <iframe src="https://drive.google.com/file/d/1ozrfzvFtj6-bLT6wiik7L9bJHBrlxNCF/preview" width="100%" height="800px" allow="autoplay"></iframe>
 
 ### Strategic Approach
 
@@ -28,7 +32,3 @@ Instead of modifying or updating the lawsuit to address the cited inaccuracies, 
 1. The court granted the motion to dismiss based on the technical inaccuracies in Eakin's filing.
 2. The threshold for dismissing the lawsuit was lower than the level severities within the FCS's FFE investigation report.
 3. This outcome suggests that if Eakin's suit was deemed insufficient on technical grounds, the FFE investigation report, with its factual inaccuracies, would undoubtedly not stand up to scrutiny either.
-
-### Conclusion
-
-Eakin's approach to the lawsuit served as a de facto test of the standards applied to legal and investigative documents. By allowing his own filing to be dismissed on technical grounds, he demonstrated that the FFE investigation report, with more serious factual inaccuracies, would likely be considered insufficient in a legal context. This strategy highlighted the inconsistency in how accuracy and credibility were being evaluated between Eakin's legal action and FCS's investigative practices.
