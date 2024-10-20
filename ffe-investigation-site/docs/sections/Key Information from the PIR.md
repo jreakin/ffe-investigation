@@ -188,6 +188,7 @@ Dr. Hatton's actions during the FFE investigation reveal a pattern of micromanag
 ![](../images/Nov 30 - Hatton micromanagaes google meetings.png)
 
 ### Analysis and Implications  
+
 1. **Disruption of Normal Operations**: Dr. Hatton's micromanagement likely caused significant delays and complications in routine school operations.
 2. **Potential Bias**: This level of control suggests a predisposed attitude towards Manley, potentially compromising the fairness of the investigation.
 3. **Chilling Effect**: Such oversight may have created an atmosphere of fear or hesitation among staff, potentially affecting their ability to perform their duties or provide unbiased information during the investigation.
