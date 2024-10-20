@@ -78,6 +78,9 @@ extra:
   analytics:
     provider: google
     property: G-FF4SS4SRX9
+  meta:
+    description: "FFE Investigation Report"
+    image: images/cover_img.jpeg
 
 markdown_extensions:
   - admonition

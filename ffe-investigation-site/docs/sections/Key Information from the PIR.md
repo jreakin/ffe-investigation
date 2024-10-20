@@ -76,15 +76,14 @@ On October 19, a significant exchange occurred between key figures in the Findla
 
 ### Significance of the Omission
 The exclusion of this email from the investigation report raises serious questions about the thoroughness and impartiality of the investigation. As discussed in the original analysis of the report's inaccuracies and omissions (1), this omission appears to be intentional and potentially misleading.  
-{ .annotate } 
-
-1. <iframe width="560" height="315" src="https://www.youtube.com/embed/IfcRuU7wA_U?si=soU0GM28Gd8X-ysh&amp;controls=0&amp;start=607" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<div style="text-align: center;">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/IfcRuU7wA_U?si=soU0GM28Gd8X-ysh&amp;controls=0&amp;start=607" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 !!! abstract "Key Takeaways"
 	1. The initial cordial relationship between Manley and Hatton, as evidenced by informal communication.
 	2. Confirmation that Manley properly reported FFE issues, contradicting any claims of negligence.
 	3. The deliberate omission of crucial evidence from the investigation report, raising concerns about its credibility and objectivity.  
-	
+
 ---
 
 ## FCS Assistant Superintendent's Problematic Involvement in the FFE Investigation
@@ -228,6 +227,33 @@ A concerning incident on December 3 reveals Dr. Hatton's apparent attempt to con
 	This incident reinforces concerns that the FFE investigation may have been conducted with a predetermined negative outcome in mind, rather than as an impartial fact-finding mission. It underscores the need for a thorough review of the investigation's methodology and findings.  
 
 ---
+
+## Questionable Competence: Investigator's Email Reveals Systemic Failures
+
+!!! tip "Rewind"
+	In my initial analysis of the investigation report, I highlighted concerns about the investigator's methods, particularly the failure to record interviews with students and parents. This oversight raised questions about the thoroughness and reliability of the investigation process.
+
+	<div style="text-align: center;">
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/IfcRuU7wA_U?si=lBEHfS_jLy8AK2Ok&amp;start=2288" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+	</div>
+
+	> Of the 27 nterviews that that investigator did not a single one was recorded. Not one. Does that sound like an incompetent investigator to you? The police, when they investigate things, record those conversations. Courts, when they ask a series of questions, there's depositions. Fact finding. Those are recorded. Every kind of investigation that has any credibility records the interviews of witnesses. It's mostly because usually well, it's twofold. One, you have a an actual record of the interaction and the inquiry. But more importantly is, you're busy asking questions. You're busy having a conversation. You don't have time to write everything down. So you record it. You go back and review the transcript and pick up on things that you might have missed or might have left out. But when you don't have that recording, when you don't have that transcript, you're really left only with what's on top of mind.
+
+Recent evidence has come to light that further substantiates these concerns. An email from the investigator, Janice Collette, dated November 26, reveals several troubling aspects of her approach to the investigation:
+
+- **Organizational Issues**: Collette admitted to potentially losing track of critical documents, stating she couldn't recall if "Andy" had sent them previously. This is particularly concerning given that email inboxes have search functions, suggesting a lack of basic organizational skills crucial for a thorough investigation.
+
+- **Questionable Professional Affiliation**: Collette used an @aol.com email address, not one associated with the Educational Service Center of Central Ohio (ESCCO), the agency FCS claims they hired. This raises questions about her official capacity and the legitimacy of her engagement.  
+- **Overextension and Lack of Focus**: Collette mentioned being "involved with several investigations" and losing track of materials. This admission reinforces concerns about her ability to give full attention to each case, potentially compromising the quality and accuracy of her findings. 
+
+- **Inadequate Preparation**: The email indicates that as of October 26, Collette did not have access to district manuals, which are hundreds of pages long. Yet, she began conducting interviews the very next day, raising serious doubts about her preparedness and understanding of the district's policies and procedures.
+
+- **Inherent Bias in Information Gathering**: Given [Dr. Hatton's instructions to FCS administrators to suppress positive testimony](#dr-hattons-efforts-to-limit-positive-testimonies-in-the-ffe-investigation), there's a concern that Collette may have been "teaching to the test" - only documenting negative information that aligned with a predetermined narrative.
+
+!!! danger "Summary"
+	These revelations significantly undermine the credibility of the investigation. They suggest not only a lack of professional rigor in the investigative process but also raise questions about the objectivity and completeness of the findings. **The absence of recorded interviews, combined with these organizational and preparatory shortcomings, casts serious doubt on the reliability of the investigation's conclusions and the fairness of any actions taken based on its findings**.  
+
+![](../images/collette_disorganized.jpeg)
 
 ## FCS Administration's Problematic Handling of the FFE Investigation  
 This analysis highlights three key issues in the Findlay City Schools (FCS) administration's management of the FFE investigation: lack of communication, inconsistent decision-making, and questionable integrity in the process.
