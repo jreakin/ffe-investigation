@@ -52,7 +52,11 @@ plugins:
       cards_layout_options:
         background_color: red
         background_image: images/cover_img.jpeg  # Background color for the social card
-        # color: "#000000"              # Text color for the social card
+        layers:
+          - background: images/cover_img.jpeg
+            height: 100vh
+            opacity: 0.5
+            parallax: 0.5
 
   - mkdocstrings:
       handlers:
