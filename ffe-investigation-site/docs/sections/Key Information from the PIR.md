@@ -303,7 +303,7 @@ Simon's email contained two key points of criticism:
 
 ### Unpacking the Absurdity
 - **Substance vs. Theater**: Simon admits Manley covered all necessary points but criticizes his delivery. This reveals a disturbing preference for dramatic performance over factual communication.
-- **Demanding Inauthentic Behavior**: By insisting on a "more firm message," Simon is essentially asking Manley to act in a way that may be entirely contrary to his natural demeanor and genuine feelings about the situation.
+- **Demanding Inauthentic Behavior**: By insisting on a "more firm message," Simon is essentially asking Manley to act in a way that is  contrary to his natural demeanor and genuine personality.
 - **Misunderstanding Passion**: Simon seems to equate "conviction" with aggressive delivery, completely disregarding that true passion and commitment can be expressed in various ways, including through measured and thoughtful communication.
 - **Valuing Appearance Over Substance**: Simon's focus on how the message is delivered rather than its content suggests a concerning prioritization of optics over truth and authenticity.
 
@@ -314,3 +314,62 @@ Simon's email contained two key points of criticism:
 
 This incident starkly illustrates the administration's misguided priorities during the FFE investigation. By valuing aggressive posturing over authentic communication, Simon not only does a disservice to Manley but also undermines the integrity of the entire process. It's a troubling example of how the pursuit of a particular narrative can lead to unreasonable and potentially harmful expectations.
 
+---
+
+## Recommended Actions for Findlay City School Board
+
+1. **Immediate Administrative Leave**
+	- Place Dr. Andy Hatton (Superintendent) and Krista Crates-Miller on administrative leave pending a thorough, independent investigation.
+
+2. **Independent Investigation**
+	- Commission an independent, external investigation into the conduct of the FFE investigation, focusing on:
+		1. The selection and qualifications of the original investigator
+		2. The timeline discrepancies in the investigation process
+		3. The apparent bias and predetermined outcomes
+		4. The breach of confidentiality and premature disclosure of personnel actions
+		5. The micromanagement and interference in normal school operations
+
+
+3. **Disciplinary Actions**
+	- Based on the findings of the independent investigation, consider:
+		1. Termination of Dr. Andy Hatton for misconduct and abuse of power
+		2. Termination of Krista Crates-Miller for conflict of interest and unethical behavior
+		3. Disciplinary action against Principal Meg Simon for inappropriate pressure on staff
+		4. Review the roles of other administrators involved and take appropriate action
+
+
+4. **Policy and Procedure Overhaul**
+	- Revise and strengthen policies regarding:
+		1. Conducting internal investigations
+		2. Handling conflicts of interest
+		3. Communication protocols during ongoing investigations
+		4. Protection of employee rights and due process
+
+
+5. **Ethics Training**
+	- Implement mandatory ethics training for all administrative staff, focusing on:
+		1. Proper handling of sensitive information
+		2. Maintaining objectivity in investigations
+		3. Respecting employee rights and dignity
+
+
+6. **Transparency Measures**
+	- Develop a plan to restore trust with the community, including:
+		1. Regular updates on the progress of the new investigation
+		2. Open forums for community members to voice concerns
+		3. Clear communication about steps being taken to prevent future incidents
+
+
+7. **Legal Review**
+	- Engage legal counsel to:
+		1. Assess potential liability from the mishandled investigation
+		2. Advise on proper procedures for any personnel actions
+		3. Ensure compliance with all relevant laws and regulations
+
+8. **Board Oversight Improvement**
+	- Enhance the school board's oversight capabilities:
+		1. Implement regular checks on administrative actions
+		2. Establish an independent ethics committee
+		3. Create a confidential whistleblower system for staff to report concerns
+
+These actions aim to address the serious issues uncovered, restore integrity to the school district's processes, and rebuild trust with staff, students, and the community.
