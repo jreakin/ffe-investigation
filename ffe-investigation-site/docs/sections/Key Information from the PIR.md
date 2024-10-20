@@ -263,3 +263,32 @@ This analysis highlights three key issues in the Findlay City Schools (FCS) admi
 5. **Stakeholder Trust**: The combination of poor communication, inconsistent decision-making, and questionable integrity likely eroded trust among FFE families, staff, and the broader school community.  
 
 This series of events paints a picture of an administration struggling with transparency, consistency, and integrity in handling the FFE investigation. It raises significant questions about the fairness of the process and the motivations behind the administration's actions.  
+
+## Principal Meg Simon's Critique of Manley's Communication Under Duress  
+On January 22, an email from Findlay High School Principal Meg Simon revealed a critical assessment of Kevin Manley's communication style during a period of heightened scrutiny. This incident provides insight into the pressures Manley faced and the administration's expectations during the FFE investigation.
+
+### The Incident
+- **Date**: January 22
+- **From**: FHS Principal Meg Simon
+- **To**: Kevin Manley (implied)
+- **Context**: Manley had delivered a message to the students after school relating to the FFE cultural concerns.  
+
+### Simon's Critique
+Simon's email contained two key points of criticism:
+1. **Lack of Conviction**: "While your message this afternoon hit the points we brainstormed, it lacked conviction..."
+2. **Need for Firmness**: "We need to regroup and plan for how you can deliver a more firm message."  
+![](../images/Jan%2022%20-%20Simon%20Manley%20Wasn't%20Convincing%20ENough.png)  
+
+### Unpacking the Absurdity
+- **Substance vs. Theater**: Simon admits Manley covered all necessary points but criticizes his delivery. This reveals a disturbing preference for dramatic performance over factual communication.
+- **Demanding Inauthentic Behavior**: By insisting on a "more firm message," Simon is essentially asking Manley to act in a way that may be entirely contrary to his natural demeanor and genuine feelings about the situation.
+- **Misunderstanding Passion**: Simon seems to equate "conviction" with aggressive delivery, completely disregarding that true passion and commitment can be expressed in various ways, including through measured and thoughtful communication.
+- **Valuing Appearance Over Substance**: Simon's focus on how the message is delivered rather than its content suggests a concerning prioritization of optics over truth and authenticity.
+
+### The Inherent Unfairness
+- **Moving Goalposts**: Manley fulfilled the agreed-upon task by covering all points, yet is still criticized. This creates an impossible standard where even meeting expectations isn't enough.
+- **Pressure to Misrepresent**: Asking Manley to deliver a message with more "firmness" than he naturally feels is tantamount to asking him to misrepresent himself and potentially the situation.
+- **Disregard for Personal Integrity**: Simon's expectations show a complete disregard for Manley's personal integrity and his right to communicate in a way that aligns with his true feelings and personality.  
+
+This incident starkly illustrates the administration's misguided priorities during the FFE investigation. By valuing aggressive posturing over authentic communication, Simon not only does a disservice to Manley but also undermines the integrity of the entire process. It's a troubling example of how the pursuit of a particular narrative can lead to unreasonable and potentially harmful expectations.
+
