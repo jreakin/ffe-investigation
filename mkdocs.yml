@@ -49,9 +49,10 @@ plugins:
   - search:
       lang: en
   - social:
-      cards_color:
-        fill: "#F3D503"
-        text: "#000000"
+      cards_layout_options:
+        background_color: "#F3D503"  # Background color for the social card
+        color: "#000000"              # Text color for the social card
+
   - mkdocstrings:
       handlers:
         python:
@@ -68,7 +69,7 @@ extra:
       link: https://twitter.com/jreakin
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/jreakin
-  meta_image: images/cover_img.jpeg
+  meta_image: images/cover_img.jpg
 
 markdown_extensions:
   - admonition
