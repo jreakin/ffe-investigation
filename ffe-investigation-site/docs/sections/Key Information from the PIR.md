@@ -162,6 +162,28 @@ For a detailed breakdown of this issue and its implications, refer to the follow
 This series of events and communications demonstrates a clear pattern of inappropriate involvement and bias from Krista Crates-Miller in the FFE investigation. Despite an early acknowledgment of her conflict of interest, Crates-Miller remained deeply involved in various aspects of the situation. The communications also reveal a concerning level of prejudice and unprofessional behavior from both Crates-Miller and Dr. Hatton, raising serious questions about the objectivity and fairness of the entire investigative process.
 
 ---
+## Premature Disclosure of Administrative Action: A Timeline Discrepancy  
+A critical timeline discrepancy has been uncovered regarding Kevin Manley's administrative leave, raising serious questions about the handling of sensitive personnel matters and potential bias in the FFE investigation.
+
+### Key Events on November 12:
+- **10:37 AM**: Krista Crates-Miller contacts Alycia Althaus about Manley's administrative leave.
+- **6:31 PM**: Kevin Manley is officially notified of his placement on administrative leave.  
+![](../images/Nov%2012%20-%20Administrative%20Leave.png)  
+
+### Analysis of the Discrepancy
+- **Premature Disclosure**: Crates-Miller discussed Manley's administrative leave with Althaus nearly 8 hours before Manley himself was informed. This represents a significant breach of professional ethics and possibly legal protocols.
+- **Violation of Confidentiality**: Personnel actions, especially disciplinary measures, are typically highly confidential. The early disclosure to Althaus suggests a concerning lack of discretion and potentially improper information sharing.
+- **Potential Prejudice**: Informing Althaus, a former colleague, before the affected party (Manley) suggests a possible attempt to shape narratives or gather support against Manley before he could respond.
+- **Procedural Irregularity**: Standard practice dictates that an employee should be the first to know about actions affecting their employment status. This deviation raises questions about the fairness and professionalism of the process.
+
+### Broader Implications  
+- **Administrative Integrity**: This incident casts doubt on the administration's ability to handle sensitive matters appropriately and maintain confidentiality.
+- **Potential Bias**: The premature disclosure to Althaus may indicate a predetermined stance against Manley, raising concerns about the objectivity of the entire investigation.
+- **Legal and Ethical Concerns**: This breach of protocol could potentially expose the school district to legal challenges regarding their handling of personnel matters.
+
+This timeline discrepancy is not merely a procedural misstep but a serious indication of potential misconduct in the handling of the FFE investigation. It underscores the need for a thorough review of the administration's actions throughout the FFE investigation and raises questions about the fairness and integrity of the entire process.  
+
+---
 
 ## Dr. Hatton's Excessive Control Over Kevin Manley's Communications  
 Dr. Hatton's actions during the FFE investigation reveal a pattern of micromanagement and undue control over Kevin Manley's professional interactions. This level of oversight extends beyond normal administrative procedures, potentially hampering Manley's ability to perform his duties effectively.
