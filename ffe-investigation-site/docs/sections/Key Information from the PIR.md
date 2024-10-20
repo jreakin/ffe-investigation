@@ -195,6 +195,7 @@ Dr. Hatton's actions during the FFE investigation reveal a pattern of micromanag
 5. **Procedural Irregularities**: The deviation from standard administrative practices raises questions about the motivation behind such intense scrutiny and its impact on the investigation's integrity.  
 
 This pattern of micromanagement by Dr. Hatton reveals a concerning level of personal involvement in the FFE investigation, potentially compromising its objectivity and fairness. It also suggests a breakdown in trust and normal administrative procedures within the school district during this period.  
+
 ---
 
 ## Dr. Hatton's Efforts to Limit Positive Testimonies in the FFE Investigation  
@@ -221,9 +222,10 @@ A concerning incident on December 3 reveals Dr. Hatton's apparent attempt to con
 1. **Integrity of the Investigation**: This incident raises serious questions about the overall fairness and comprehensiveness of the FFE investigation.
 2. **Administrative Overreach**: Dr. Hatton's involvement in determining who gets to speak directly with the investigator suggests an inappropriate level of control over the investigative process.
 3. **Potential for Skewed Results**: By potentially limiting direct positive testimonies, the investigation's findings could be disproportionately negative, leading to an unfair representation of Kevin Manley and FFE.
-4. **Erosion of Trust**: Such actions, if known to the school community, could erode trust in the administration's ability to conduct fair and unbiased investigations.  
+4. **Erosion of Trust**: Such actions, if known to the school community, could erode trust in the administration's ability to conduct fair and unbiased investigations.   
 
 This incident reinforces concerns that the FFE investigation may have been conducted with a predetermined negative outcome in mind, rather than as an impartial fact-finding mission. It underscores the need for a thorough review of the investigation's methodology and findings.  
+
 ---
 
 ## FCS Administration's Problematic Handling of the FFE Investigation  
