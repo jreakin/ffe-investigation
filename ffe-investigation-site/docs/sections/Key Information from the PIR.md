@@ -1,4 +1,6 @@
 ---
+og_image: images/cover_img.jpeg
+twitter_image: images/cover_img.jpeg
 toc_depth: 2
 ---
 

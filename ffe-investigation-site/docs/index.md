@@ -1,3 +1,8 @@
+---
+title: "Uncovering the Truth: The Findlay First Edition Investigation"
+og_image: images/cover_img.jpeg
+twitter_image: images/cover_img.jpeg
+---
 # Uncovering the Truth: The Findlay First Edition Investigation
 
 Dear Reader,
