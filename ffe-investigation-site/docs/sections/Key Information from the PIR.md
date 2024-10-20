@@ -37,10 +37,10 @@ The denial responses received to the public information request are standard. Th
 > Please be advised, your request is denied because it is overly broad and ambiguous. In providing a response to a request, the District is not required “to do research or to identify records containing selected information” or produce an entire category of records. See State ex rel. Fant v. Tober, 8th Dist. Cuyahoga No. 63737, 1993 WL 173743, *1 (Apr. 28, 1993), aff'd, 68 Ohio St.3d 117 (1993). Instead, a requester must identify the records he or she is seeking “with reasonable clarity.” State ex rel. Glasgow v. Jones, 119 Ohio St.3d 391, 2008-Ohio-4788, ¶17. Requests for general categories of content or which seek all records “regarding or related to” a specified topic are overbroad. Morgan v. Strickland, 121 Ohio St.3d 600, 2009-Ohio-1901, at ¶ 14–15. Likewise, requests seeking all correspondence between certain senders/recipients over expansive periods of time and/or involving vague subject matters or keywords do not permit the District sufficient clarity to identify responsive records. See Patton v. Univ. of Akron, Ct. of Cl. No. 2017-00820PQ, 2018-Ohio-1555, ¶ 10; Hicks v. Newtown, Ct. of Cl. No. 2017-Ohio-00612-PQ, 2017-Ohio-8952, ¶ 8. As such, your request lacks specificity and particularity, and invariably requests documents or categories of documents that do not exist or do not align with the District’s record retention schedule (attached)  
 
 
-> Your request is further denied in part to the extent it seeks documents and records that are protected from release in accordance with state and/or federal law. For example, records covered by the attorney-client are protected from release. This includes legal advice of any kind and communications between the District and its legal counsel. State ex rel. Leslie v. Ohio Hous. Fin. Agency, 105 Ohio St.3d 261, 2005-Ohio-1508. Similarly, any records containing either the education records or the non-directory, personally identifiable information of students are not subject to release. 20 USC 1232g (FERPA); R.C. 3319.321. Any record that “directly relates” to a student is considered the educational record of that student and is therefore confidential. 34 C.F.R. § 99.3. Id. This protection also pertains to information that, alone or in combination, is linked or linkable to a specific student that would allow a reasonable person in the school community, who does not have personal knowledge of the relevant circumstances, to identify the student with reasonable certainty. Federal law further protects from release any information requested by a person who the District reasonably believes knows the identity of the student to whom the education record relates. This further includes the personal notes of District employees and officials, which are not considered public records for the purposes of R.C. 149.43. See Hunter v. Ohio Bur. of Workers’ Comp., 10th Dist. No. 13AP-457, 2014-Ohio-5660, 16-17, 23-35.
+> Your request is further denied in part to the extent it seeks documents and records that are protected from release in accordance with state and/or federal law. For example, records covered by the attorney-client are protected from release. This includes legal advice of any kind and communications between the District and its legal counsel. State ex rel. Leslie v. Ohio Hous. Fin. Agency, 105 Ohio St.3d 261, 2005-Ohio-1508. Similarly, any records containing either the education records or the non-directory, personally identifiable information of students are not subject to release. 20 USC 1232g (FERPA); R.C. 3319.321. Any record that “directly relates” to a student is considered the educational record of that student and is therefore confidential. 34 C.F.R. § 99.3. Id. This protection also pertains to information that, alone or in combination, is linked or linkable to a specific student that would allow a reasonable person in the school community, who does not have personal knowledge of the relevant circumstances, to identify the student with reasonable certainty. Federal law further protects from release any information requested by a person who the District reasonably believes knows the identity of the student to whom the education record relates. This further includes the personal notes of District employees and officials, which are not considered public records for the purposes of R.C. 149.43. See Hunter v. Ohio Bur. of Workers’ Comp., 10th Dist. No. 13AP-457, 2014-Ohio-5660, 16-17, 23-35.  
 
 
-> Finally, your request is denied in part to the extent you seek records that do not constitute public records, are protected from release, and/or do not exist. A public office is not obligated to create records in response to a request for unrecorded or not-currently-recorded information, rather than a request for specific existing records containing such information. State ex rel. White v. Goldsberry, 85 Ohio St.3d 153, 154, 1999-Ohio-447 (a public office has “no duty under R.C. 149.43 to create new records.”). Additionally, the District has no obligation to identify those documents not produced or that do not exist, as this would amount to the creation of a privilege log, which the District has “no duty under R.C. 149.43 to submit.” State ex rel. Lanham v. DeWine, 135 Ohio St.3d 191, 2013-Ohio-199.
+> Finally, your request is denied in part to the extent you seek records that do not constitute public records, are protected from release, and/or do not exist. A public office is not obligated to create records in response to a request for unrecorded or not-currently-recorded information, rather than a request for specific existing records containing such information. State ex rel. White v. Goldsberry, 85 Ohio St.3d 153, 154, 1999-Ohio-447 (a public office has “no duty under R.C. 149.43 to create new records.”). Additionally, the District has no obligation to identify those documents not produced or that do not exist, as this would amount to the creation of a privilege log, which the District has “no duty under R.C. 149.43 to submit.” State ex rel. Lanham v. DeWine, 135 Ohio St.3d 191, 2013-Ohio-199.  
 
 ---
 # What is **not** in the information requested from Findlay City Schools
@@ -130,33 +130,33 @@ For a detailed breakdown of this issue and its implications, refer to the follow
 
 ### Continued Involvement Despite Acknowledged Conflict
 #### 1. Document Handling:  
-	- **November 20**: Dr. Hatton instructs Crates-Miller to file Kevin Manley's administrative leave notification.  
-	![](../images/Nov%2020%20-%20Hatton%20"For%20the%20File".png)  
+- **November 20**: Dr. Hatton instructs Crates-Miller to file Kevin Manley's administrative leave notification.  
+![](../images/Nov%2020%20-%20Hatton%20"For%20the%20File".png)  
 
 #### 2. Coordination with Former Boingers Director:  
-	- **November 12**: Alycia (Althaus) Fox informs Meg Simon that Crates-Miller reached out about the FFE Investigation.  
-	![](../images/Nov%2012%20-%20Althaus%20"Krista%20Miller%20reached%20out".png)  
-	- Crates-Miller assists Althaus with her resignation as Boingers director.  
-	![](../images/Althouse%20-%20Asking%20Miller%20to%20Proofread%20Resignation%201.png)  
-	- Coordination of resignation announcement for maximum impact on Kevin Manley.  
-	![](../images/Althouse%20-%20Coordinating%20Resignation%20Release%20with%20Miller.png)  
+- **November 12**: Alycia (Althaus) Fox informs Meg Simon that Crates-Miller reached out about the FFE Investigation.  
+![](../images/Nov%2012%20-%20Althaus%20"Krista%20Miller%20reached%20out".png)  
+- Crates-Miller assists Althaus with her resignation as Boingers director.  
+![](../images/Althouse%20-%20Asking%20Miller%20to%20Proofread%20Resignation%201.png)  
+- Coordination of resignation announcement for maximum impact on Kevin Manley.  
+![](../images/Althouse%20-%20Coordinating%20Resignation%20Release%20with%20Miller.png)  
 
 ### Inappropriate Reactions and Comments
 #### 1. Reaction to Staff Support for FFE:  
-	- Crates-Miller's extreme reaction to Dr. Hatton's secretary wearing red in support of FFE.
-	- Dr. Hatton's inappropriate response: "Please don't shit your pants. That's gross."
-	- Notable: The secretary's position was eliminated shortly after this incident.  
-	![](../images/Our%20Own%20Staff%20Is%20Wearing%20Red.png)  
+- Crates-Miller's extreme reaction to Dr. Hatton's secretary wearing red in support of FFE.
+- Dr. Hatton's inappropriate response: "Please don't shit your pants. That's gross."
+- Notable: The secretary's position was eliminated shortly after this incident.  
+![](../images/Our%20Own%20Staff%20Is%20Wearing%20Red.png)  
 
 #### 2. Insensitive Comments about FFE Performance:  
-	- Dr. Hatton sends "Ts & Ps" (thoughts and prayers) when Crates-Miller attends an event where FFE is performing.
-	- This comment further highlights the prejudice towards FFE by those overseeing the investigation.  
-	![](../images/Hatton%20sends%20Ts%20and%20Ps.png)  
+- Dr. Hatton sends "Ts & Ps" (thoughts and prayers) when Crates-Miller attends an event where FFE is performing.
+- This comment further highlights the prejudice towards FFE by those overseeing the investigation.  
+![](../images/Hatton%20sends%20Ts%20and%20Ps.png)  
 
 #### 3. Derogatory Comments about FFE Personnel:  
-	- **January 12**: Crates-Miller refers to Andy Hanes as the "god damn choreographer" in a text to Dr. Hatton.
-	- This exchange demonstrates ongoing personal bias influencing the investigation.  
-	![](../images/Jan%2012%20-%20Hatton%20"God%20Damn%20Choreographer".png)   
+- **January 12**: Crates-Miller refers to Andy Hanes as the "god damn choreographer" in a text to Dr. Hatton.
+- This exchange demonstrates ongoing personal bias influencing the investigation.  
+![](../images/Jan%2012%20-%20Hatton%20"God%20Damn%20Choreographer".png)   
 
 ### Conclusion  
 This series of events and communications demonstrates a clear pattern of inappropriate involvement and bias from Krista Crates-Miller in the FFE investigation. Despite an early acknowledgment of her conflict of interest, Crates-Miller remained deeply involved in various aspects of the situation. The communications also reveal a concerning level of prejudice and unprofessional behavior from both Crates-Miller and Dr. Hatton, raising serious questions about the objectivity and fairness of the entire investigative process.
@@ -167,32 +167,32 @@ This series of events and communications demonstrates a clear pattern of inappro
 Dr. Hatton's actions during the FFE investigation reveal a pattern of micromanagement and undue control over Kevin Manley's professional interactions. This level of oversight extends beyond normal administrative procedures, potentially hampering Manley's ability to perform his duties effectively.
 
 ### 1. Controlling External Vendor Communications  
-- Date: November 14
-- Incident: Dr. Hatton personally approved the method and purpose of Manley's correspondence with an FFE vendor.
-- Significance: This vendor was not an FCS employee or student, yet Hatton required his approval for communication.
-- Implication: Suggests an unusual level of control over Manley's professional activities, even those outside the school system.
+- **Date**: November 14
+- **Incident**: Dr. Hatton personally approved the method and purpose of Manley's correspondence with an FFE vendor.
+- **Significance**: This vendor was not an FCS employee or student, yet Hatton required his approval for communication.
+- **Implication**: Suggests an unusual level of control over Manley's professional activities, even those outside the school system.
 ![](../images/Nov 14 - Hatton micromanaging costumes .png)  
 
 ### 2. Interfering with Routine Teaching Tasks  
-- Date: November 14
-- Incident: FCS Principal Meg Simon had to seek Dr. Hatton's approval on how to handle lesson plan correspondence with Manley.
-- Significance: Lesson planning is a routine task that typically doesn't require superintendent involvement.
-- Implication: Indicates a breakdown in normal administrative procedures and an overreach of the superintendent's role.  
+- **Date**: November 14
+- **Incident**: FCS Principal Meg Simon had to seek Dr. Hatton's approval on how to handle lesson plan correspondence with Manley.
+- **Significance**: Lesson planning is a routine task that typically doesn't require superintendent involvement.
+- **Implication**: Indicates a breakdown in normal administrative procedures and an overreach of the superintendent's role.  
 ![](../images/Nov 14 - Simon asking Hatton how to handle lesson plans.png)
 
 ### 3. Overseeing Minor Administrative Tasks  
-- Date: November 30
-- Incident: FHS Principal Mark Laux required Dr. Hatton's approval to set up a Google meeting about fabric issues.
-- Significance: Setting up meetings is a basic administrative task that shouldn't require superintendent approval.
-- Implication: Demonstrates the extent of Hatton's involvement in even the most minor aspects of FFE-related activities.  
+- **Date**: November 30
+- **Incident**: FHS Principal Mark Laux required Dr. Hatton's approval to set up a Google meeting about fabric issues.
+- **Significance**: Setting up meetings is a basic administrative task that shouldn't require superintendent approval.
+- **Implication**: Demonstrates the extent of Hatton's involvement in even the most minor aspects of FFE-related activities.  
 ![](../images/Nov 30 - Hatton micromanagaes google meetings.png)
 
 ### Analysis and Implications  
-1. Disruption of Normal Operations: Dr. Hatton's micromanagement likely caused significant delays and complications in routine school operations.
-2. Potential Bias: This level of control suggests a predisposed attitude towards Manley, potentially compromising the fairness of the investigation.
-3. Chilling Effect: Such oversight may have created an atmosphere of fear or hesitation among staff, potentially affecting their ability to perform their duties or provide unbiased information during the investigation.
-4. Questionable Use of Resources: The superintendent's time and attention were diverted to minor tasks, potentially at the expense of more critical district-wide responsibilities.
-5. Procedural Irregularities: The deviation from standard administrative practices raises questions about the motivation behind such intense scrutiny and its impact on the investigation's integrity.  
+1. **Disruption of Normal Operations**: Dr. Hatton's micromanagement likely caused significant delays and complications in routine school operations.
+2. **Potential Bias**: This level of control suggests a predisposed attitude towards Manley, potentially compromising the fairness of the investigation.
+3. **Chilling Effect**: Such oversight may have created an atmosphere of fear or hesitation among staff, potentially affecting their ability to perform their duties or provide unbiased information during the investigation.
+4. **Questionable Use of Resources**: The superintendent's time and attention were diverted to minor tasks, potentially at the expense of more critical district-wide responsibilities.
+5. **Procedural Irregularities**: The deviation from standard administrative practices raises questions about the motivation behind such intense scrutiny and its impact on the investigation's integrity.  
 
 This pattern of micromanagement by Dr. Hatton reveals a concerning level of personal involvement in the FFE investigation, potentially compromising its objectivity and fairness. It also suggests a breakdown in trust and normal administrative procedures within the school district during this period.  
 ---
@@ -201,13 +201,13 @@ This pattern of micromanagement by Dr. Hatton reveals a concerning level of pers
 A concerning incident on December 3 reveals Dr. Hatton's apparent attempt to control the narrative of the FFE investigation by potentially limiting positive testimonies about Kevin Manley.
 
 ### The Incident  
-- Date: December 3
-- Context: An individual requested to speak with the investigator about the FFE situation.
-- Initial Response: FHS Principal Meg Simon sought guidance from Dr. Hatton on how to handle this request.
+- **Date**: December 3
+- **Context**: An individual requested to speak with the investigator about the FFE situation.
+- **Initial Response**: FHS Principal Meg Simon sought guidance from Dr. Hatton on how to handle this request.
 
 ### Dr. Hatton's Instructions  
-1. Probing Directive: Hatton instructed Simon to investigate the nature of the individual's inquiry.
-2. Limiting Positive Testimonies: Hatton stated, "If she just want[s] to give a ringing endorsement to Kevin, that's fine but she can send an email."  
+1. **Probing Directive**: Hatton instructed Simon to investigate the nature of the individual's inquiry.
+2. **Limiting Positive Testimonies**: Hatton stated, "If she just want[s] to give a ringing endorsement to Kevin, that's fine but she can send an email."  
 	![](../images/Dec 3 - Hatton instructs principals to probe.png)
 
 ### Analysis of Hatton's Response  
