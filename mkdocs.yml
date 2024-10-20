@@ -51,12 +51,7 @@ plugins:
   - social:
       cards_layout_options:
         background_color: red
-        background_image: images/cover_img.jpeg  # Background color for the social card
-        layers:
-          - background: images/cover_img.jpeg
-            height: 100vh
-            opacity: 0.5
-            parallax: 0.5
+        background_image: null  # Background color for the social card
 
   - mkdocstrings:
       handlers:
@@ -69,17 +64,16 @@ plugins:
 #      blog_dir: ./blog
 
 extra:
+  og_image: images/cover_img.jpeg
+  twitter_image: images/cover_img.jpeg
   social:
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/jreakin
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/jreakin
-  meta_image: images/cover_img.jpeg
   analytics:
     provider: google
     property: G-FF4SS4SRX9
-  og_image: images/cover_img.jpeg
-  twitter_image: images/cover_img.jpeg
 
 
 markdown_extensions:
