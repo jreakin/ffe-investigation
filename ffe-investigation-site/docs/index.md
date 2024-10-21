@@ -10,7 +10,7 @@ theme_color: "#1e1e1e"
 
 Dear Reader,
 
-What began as a quest for answers in January 2024 has evolved into an exposé of a scheme that appears designed to protect its own interests at the expense of truth and the well-being of students and staff.
+What began as a quest for answers in January 2024, [with a letter from myself and my father](./sections/dec29_letter.md), has evolved into an exposé of a scheme that appears designed to protect its own interests at the expense of truth and the well-being of students and staff.
 
 For months, Findlay City Schools engaged in a calculated campaign of [delays, legal maneuvers, and outright obstruction](./sections/initial_timeline.md) to prevent the release of information pertaining to their investigation into Kevin Manley and the Findlay First Edition show choir. 
 
