@@ -1,3 +1,8 @@
+---
+color_scheme: dark
+theme_color: "#1e1e1e"
+---
+
 # Explanation of Approach to Lawsuit Against Findlay City Schools
 
 ### Background and Motivation

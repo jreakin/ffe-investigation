@@ -1,6 +1,8 @@
 ---
 og_image: images/cover_img.jpeg
 twitter_image: images/cover_img.jpeg
+color_scheme: dark
+theme_color: "#1e1e1e"
 toc_depth: 2
 ---
 

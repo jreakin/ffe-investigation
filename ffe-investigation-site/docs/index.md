@@ -3,6 +3,8 @@ title: "Read the report"
 description: "Uncovering the Truth: The Findlay First Edition Investigation"
 og_image: images/cover_img.jpeg
 twitter_image: images/cover_img.jpeg
+color_scheme: dark
+theme_color: "#1e1e1e"
 ---
 # Uncovering the Truth: The Findlay First Edition Investigation
 
