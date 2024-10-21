@@ -8,11 +8,13 @@ use_directory_urls: false
 
 nav:
   - Home: index.md
-  - "Full Report": sections/Key Information from the PIR.md
-  - "Our Initial Letter": sections/dec29_letter.md
-  - "Public Information Request": sections/original_pir.md
-  - "Progress Update Request": sections/progress_update.md
-  - "Lawsuit Strategy": sections/Approach to FCS Lawsuit.md
+  - "Read The Report": sections/Key Information from the PIR.md
+  - "References":
+    - "Timeline of Events": sections/initial_timeline.md
+    - "Jan 29: Initial Letter": sections/dec29_letter.md
+    - "Feb 5: Public Information Request": sections/original_pir.md
+    - "Apr 17: Progress Update Request": sections/progress_update.md
+    - "Lawsuit Strategy": sections/Approach to FCS Lawsuit.md
 
 
 theme:

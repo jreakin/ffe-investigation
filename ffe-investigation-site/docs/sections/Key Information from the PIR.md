@@ -265,7 +265,7 @@ Recent evidence has come to light that further substantiates these concerns. An 
 
 - **Inadequate Preparation**: The email indicates that as of November 26, Collette did not have access to district manuals, which are hundreds of pages long. Yet, she began conducting interviews the very next day, raising serious doubts about her preparedness and understanding of the district's policies and procedures.
 
-- **Inherent Bias in Information Gathering**: Given [Superintendent Hatton's instructions to FCS administrators to suppress positive testimony](#dr-hattons-efforts-to-limit-positive-testimonies-in-the-ffe-investigation), there's a concern that Collette may have been "teaching to the test" - only documenting negative information that aligned with a predetermined narrative.
+- **Inherent Bias in Information Gathering**: Given [Superintendent Hatton's instructions to FCS administrators to suppress positive testimony](#superintendent-hattons-efforts-to-limit-positive-testimonies-in-the-ffe-investigation), there's a concern that Collette may have been "teaching to the test" - only documenting negative information that aligned with a predetermined narrative.
 
 !!! danger "Summary"
 	These revelations significantly undermine the credibility of the investigation. They suggest not only a lack of professional rigor in the investigative process but also raise questions about the objectivity and completeness of the findings. **The absence of recorded interviews, combined with these organizational and preparatory shortcomings, casts serious doubt on the reliability of the investigation's conclusions and the fairness of any actions taken based on its findings**.  
