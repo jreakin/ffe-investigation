@@ -287,7 +287,7 @@ This analysis highlights three key issues in the Findlay City Schools (FCS) admi
 ### 2. Inconsistent Approach to Addressing FFE Culture Issues  
 - **Date**: January 16
 - **Action**: Superintendent Hatton asks Mr. Manley to propose solutions for FFE's cultural issues.
-- **Key Quote**: "Ideas you have to address the concerns you are away of to enhance the culture of FFE in both the short and long term."
+- **Key Quote**: "Ideas you have to address the concerns you are aware of to enhance the culture of FFE in both the short and long term."
 - **Inconsistency**: If Mr. Manley was responsible for the alleged cultural degradation, why is he being asked to propose solutions?
 - **Implication**: This request raises questions about the administration's understanding of the situation and their approach to resolving it.  
   ![](../images/Jan 16 - Hatton to Manley "Come up with proposal".png)
