@@ -103,7 +103,7 @@ The exclusion of this email from the investigation report raises serious questio
 
 ## FCS Assistant Superintendent's Problematic Involvement in the FFE Investigation
 ### Initial Identification of the "FFE Problem"
-- **November 2**: Assistant Superintendent first mentions an "FFE problem" via text message.  
+- **November 2**: Assistant Superintendent is the first one the "FFE problem" was disclosed to via text message.  
 ![](../images/Nov%202%20-%20Krista%20Miller%20"We%20have%20an%20FFE%20problem".png)  
 
 ### Acknowledged Conflict of Interest
