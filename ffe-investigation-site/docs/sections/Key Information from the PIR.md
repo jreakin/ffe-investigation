@@ -6,7 +6,7 @@ theme_color: "#1e1e1e"
 toc_depth: 2
 ---
 
-# Documents Released By Findlay City Schools About FFE Investigation
+# Documents Released By Findlay City Schools About the FFE Investigation
 ---
 
 ## What is **not** in the information requested from Findlay City Schools
