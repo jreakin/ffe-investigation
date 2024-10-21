@@ -11,7 +11,7 @@ toc_depth: 2
 
 ## What is **not** in the information requested from Findlay City Schools
 
-!!! tip inline end
+!!! note inline end
     While many documents were heavily redacted to protect individual privacy, any existing documents describing cultural problems should have been included, even if partially redacted.  
 
 1. **Investigator Contract Absent**
