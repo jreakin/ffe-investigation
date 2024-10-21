@@ -1,7 +1,8 @@
-document.addEventListener("DOMContentLoaded", function() {
-    document.body.setAttribute('data-md-color-scheme', 'slate');
+document.addEventListener('DOMContentLoaded', (event) => {
+    document.documentElement.setAttribute('data-md-color-scheme', 'slate');
+    document.body.classList.add('slate');
   });
-  
+
 // Google Analytics
 window.dataLayer = window.dataLayer || [];
 function gtag(){dataLayer.push(arguments);}

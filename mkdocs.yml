@@ -37,6 +37,7 @@ theme:
     annotation: material/plus-circle
   features:
     - toc.integrate
+    - navigation.instant
     - navigation.path
     - navigation.tracking
     - navigation.sections
