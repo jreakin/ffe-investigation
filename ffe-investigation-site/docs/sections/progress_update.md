@@ -38,7 +38,7 @@ Sincerely,
 John R. Eakin
 
 [^1]: 
-    ```py
+    ```py title="Example OCR Function" linenums='1'
 
     import PyPDF2
     from PIL import Image
