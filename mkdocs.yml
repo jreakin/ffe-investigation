@@ -108,3 +108,4 @@ extra_javascript:
 
 extra_css:
   - js/pdfjs/web/viewer.css
+  - css/custom.css
