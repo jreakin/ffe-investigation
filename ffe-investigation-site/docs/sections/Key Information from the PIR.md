@@ -62,6 +62,8 @@ On October 19, a significant exchange occurred between key figures in the Findla
 ![](../images/Oct%2019%20-%20Crisis%20Brochure%20Page%201.png)
 
 
+---
+
 ## Shifting Dynamics: Manley-Hatton Relationship and Confirmation of Proper Reporting
 
 ### Cordial Relationship Prior to Investigation
@@ -262,6 +264,8 @@ Recent evidence has come to light that further substantiates these concerns. An 
 
 ![](../images/collette_disorganized.jpeg)
 
+---
+
 ## FCS Administration's Problematic Handling of the FFE Investigation  
 This analysis highlights three key issues in the Findlay City Schools (FCS) administration's management of the FFE investigation: lack of communication, inconsistent decision-making, and questionable integrity in the process.
 
@@ -297,6 +301,8 @@ This analysis highlights three key issues in the Findlay City Schools (FCS) admi
 
 !!! abstract "Summary"
 	This series of events paints a picture of an administration struggling with transparency, consistency, and integrity in handling the FFE investigation. It raises significant questions about the fairness of the process and the motivations behind the administration's actions.  
+
+---
 
 ## Principal Meg Simon's Critique of Manley's Communication Under Duress  
 On January 22, an email from Findlay High School Principal Meg Simon revealed a critical assessment of Kevin Manley's communication style during a period of heightened scrutiny. This incident provides insight into the pressures Manley faced and the administration's expectations during the FFE investigation.
