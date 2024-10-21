@@ -6,7 +6,10 @@ theme_color: "#1e1e1e"
 toc_depth: 2
 ---
 
-# What is **not** in the information requested from Findlay City Schools
+# Documents Released By Findlay City Schools About FFE Investigation
+---
+
+## What is **not** in the information requested from Findlay City Schools
 
 !!! tip inline end
     While many documents were heavily redacted to protect individual privacy, any existing documents describing cultural problems should have been included, even if partially redacted.  
@@ -15,7 +18,7 @@ toc_depth: 2
 	- No contract or agreement was provided showing the terms of engagement between Findlay City Schools and the investigator or investigative agency.
 2. **Lack of 'Culture' Issue Details**
 	- The response did not include specific information about the alleged "culture" issues within Findlay First Edition (FFE).
-## These omissions are significant because:
+### These omissions are significant because:
 - The missing contract raises questions about the scope and parameters of the investigation.
 - The absence of details about cultural issues leaves the nature and extent of the problems unclear, despite being a central concern in the investigation.  
 
