@@ -9,6 +9,7 @@ use_directory_urls: false
 nav:
   - Home: index.md
   - "Full Report": sections/Key Information from the PIR.md
+  - "Our Initial Letter": sections/dec29_letter.md
   - "Lawsuit Strategy": sections/Approach to FCS Lawsuit.md
 
 
@@ -45,6 +46,7 @@ theme:
     - search.suggest
     - content.code.copy
     - content.code.annotate
+    - content.footnote.tooltips
 
 plugins:
   - search:
@@ -78,6 +80,7 @@ extra:
 
 
 markdown_extensions:
+  - footnotes
   - admonition
   - attr_list
   - md_in_html
