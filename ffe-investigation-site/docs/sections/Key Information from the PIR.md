@@ -24,6 +24,7 @@ toc_depth: 2
 	- This lack of documentation makes it **impossible** to verify the integrity of the investigation process or trace how conclusions were reached.  
 	!!! note "FYI"
 		If additional correspondence exists but was not disclosed, FCS would coninue to be in direct violation of Ohio's public records laws.  
+		
 ### These omissions are significant because:
 - The missing contract raises questions about the scope and parameters of the investigation.
 - The absence of details about cultural issues leaves the nature and extent of the problems unclear, despite being a central concern in the investigation.  
