@@ -121,7 +121,7 @@ The exclusion of this email from the investigation report raises serious questio
 
 - **November 20**: Superintendent Hatton instructs Assistant Superintendent to file Kevin Manley's administrative leave notification in "the file".  
 !!! note inline end
-	"The file" was not included in the documents provided by FCS. 
+	"The file" was not turned over by FCS in their disclosure. 
 ![](../images/Nov%2020%20-%20Hatton%20"For%20the%20File".png)  
 
 #### 2. Coordination with Former Boingers Director:  
