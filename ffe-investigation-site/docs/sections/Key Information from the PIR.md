@@ -118,7 +118,10 @@ The exclusion of this email from the investigation report raises serious questio
 
 ### Continued Involvement Despite Acknowledged Conflict
 #### 1. Document Handling:  
-- **November 20**: Superintendent Hatton instructs Assistant Superintendent to file Kevin Manley's administrative leave notification.  
+
+- **November 20**: Superintendent Hatton instructs Assistant Superintendent to file Kevin Manley's administrative leave notification in "the file".  
+!!! note inline end
+	"The file" was not included in the documents provided by FCS. 
 ![](../images/Nov%2020%20-%20Hatton%20"For%20the%20File".png)  
 
 #### 2. Coordination with Former Boingers Director:  
@@ -272,6 +275,9 @@ Recent evidence has come to light that further substantiates these concerns. An 
 	These revelations significantly undermine the credibility of the investigation. They suggest not only a lack of professional rigor in the investigative process but also raise questions about the objectivity and completeness of the findings. **The absence of recorded interviews, combined with these organizational and preparatory shortcomings, casts serious doubt on the reliability of the investigation's conclusions and the fairness of any actions taken based on its findings**.  
 
 ![](../images/collette_disorganized.jpeg)
+!!! warning "Documents Missing"
+	The documents referenced in the email as being forwarded by FHS Principal Meg Simon were not turned over by FCS. They should have been included in the discovery if they were attached in the previous email the investigator referenced. 
+
 
 ---
 
