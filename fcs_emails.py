@@ -1,6 +1,8 @@
+from __future__ import annotations
 from typing import Optional
 import time
 import csv
+from functools import partial
 from pathlib import Path
 from icecream import ic
 
@@ -30,6 +32,16 @@ EMPLOYEE_FIELDS = list(Employee.__dataclass_fields__.keys())
 DIRECTORY_URL = "https://www.fcs.org/directory"
 
 
+def find_replace_element(item: webdriver, cls_name: str, replace: Optional[str] = None):
+    try:
+        stmt = (item
+                .find_element(By.CLASS_NAME, cls_name)
+                .text)
+        return stmt.replace(replace, "") if replace else stmt
+    except NoSuchElementException:
+        return None
+
+
 def scrape_emails(url: str = DIRECTORY_URL, max_pages: int = None) -> set[Employee]:
     emails_ = set()
     current_page = 1
@@ -50,47 +62,25 @@ def scrape_emails(url: str = DIRECTORY_URL, max_pages: int = None) -> set[Employ
         # Process items on current page
         constituent_items = driver.find_elements(By.CLASS_NAME, "fsConstituentItem")
         for item in constituent_items:
-            name = (item
-                    .find_element(By.CLASS_NAME, "fsConstituentProfileLink")
-                    .text)
-            try:
-                titles = (item
-                          .find_element(By.CLASS_NAME, "fsTitles")
-                          .text
-                          .replace("Titles:", "").strip())
-            except NoSuchElementException:
-                titles = None
-            try:
-                locations = (item
-                             .find_element(By.CLASS_NAME, "fsLocations")
-                             .text
-                             .replace("Locations:", "").strip())
-            except NoSuchElementException:
-                locations = None
-
-            try:
-                email = (item
-                         .find_element(By.CLASS_NAME, "fsEmail")
-                         .text.replace("Email:", "").strip())
-            except NoSuchElementException:
-                email = None
-
+            _find = partial(find_replace_element, item)
             emails_.add(
                 Employee(
-                    name=name,
-                    email=email,
-                    titles=titles,
-                    locations=locations
+                    name=_find(cls_name="fsConstituentProfileLink"),
+                    email=_find(cls_name="fsEmail", replace="Email:"),
+                    titles=_find(cls_name="fsTitles", replace="Titles:"),
+                    locations=_find(cls_name="fsLocations", replace="Locations:")
                 )
             )
 
         try:
-            next_button = (WebDriverWait(driver, 10)
-            .until(
-                EC.element_to_be_clickable(
-                    (By.CLASS_NAME, "fsNextPageLink")
+            next_button = (
+                WebDriverWait(driver, 10)
+                .until(
+                    EC.element_to_be_clickable(
+                        (By.CLASS_NAME, "fsNextPageLink")
+                    )
                 )
-            ))
+            )
             driver.execute_script("arguments[0].scrollIntoView(true);", next_button)
             time.sleep(1)
             next_button.click()
