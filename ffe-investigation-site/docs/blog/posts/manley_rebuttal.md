@@ -110,6 +110,7 @@ Kevin Manley
 
 # **Observations from Kevin Manley's Rebuttal**
 
+- Despite the investigation's purported focus on "toxic culture" within FFE, **not a single student faced disciplinary action for hazing, bullying, or contributing to any alleged cultural problems**. The four students who did receive discipline were punished for unrelated infractions - primarily social media posts and off-campus behavior - revealing a stark disconnect between the investigation's stated purpose and its actual findings.  
 - There was over a week delay between Mr. Manley reporting the complaint on November 1 and FHS Principal Meg Simon meeting again with Mr. Manley on November 9. 
     - But we do know there were [conversations going on behind the scenes between administrators](../../sections/Key%20Information%20from%20the%20PIR.md#initial-identification-of-the-ffe-problem) between November 2 and November 9.
 
