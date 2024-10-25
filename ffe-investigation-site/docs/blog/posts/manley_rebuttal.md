@@ -129,7 +129,11 @@ Kevin Manley
 
 - FCS Administrators have undermined Kevin Manley's insistance on severe punishments for student misconduct in the past.  
 > I will add that on several occasions I requested that a student’s disciplinary penalty  be more severe, only to be denied by the Administration.  The Administration also undermined disciplinary consequences that I had given by rolling back the consequences and allowing students to perform or continue in the group.
-- Manley was placed on Administrative leave for allegedly discussing the investigation and violating a verbal directive. Documents we have reviewed from FCS confirm he did not discuss the substance of the investigation with the FFE assistant, Alycia Althaus, who later reported the exchange with Manley to an Assistant Superintendent. 
+
+- Manley was placed on Administrative leave for allegedly discussing the investigation and violating a verbal directive - a directive format that isn't even permitted under the Findlay City Schools Collective Bargaining Agreement (CBA). The CBA explicitly requires directives to be issued in writing, making the verbal directive itself improper and unenforceable.  
+
+    Documents we have reviewed from FCS confirm he did not discuss the substance of the investigation with the FFE assistant, Alycia Althaus, who later reported the exchange with Manley to administrators.  
+
     - Background:
         - Based on text messages provided by FCS, Mr. Manley contacted Alycia Fox to share his train of thought and to check in on his Assistant Director at 9:26 AM on November 10. At 10:04 AM, Dr. Hatton sent his first insistance that Manley not "have any contact with staff, parents, or students as it relates to the investigation or as it relates to any concerns regarding FFE."
         - Between 10:04 AM and 1:00 PM, collaboration between FHS Principal Meg Simon and Superintendent Hatton were had via text message about a message Principal Simon wanted to send to Kevin Manley. Principal Simon wanted to emphasize the meeting she wanted to have with Manley would be "non-displinary" in nature, which Superintendent Hatton opposed and directed her to remove.  
