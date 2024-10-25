@@ -9,6 +9,9 @@ use_directory_urls: false
 nav:
   - Home: index.md
   - "Read The Report": sections/Key Information from the PIR.md
+  - "Latest Updates": 
+    - blog/index.md
+    - "Read Kevin Manley's Rebuttail": blog/posts/manley_rebuttal.md
   - "References":
     - "Timeline of Events": sections/initial_timeline.md
     - "Jan 29: Initial Letter": sections/dec29_letter.md
@@ -25,50 +28,45 @@ theme:
     primary: pink
     accent: red
   icon:
-    # admonition:
-    #       note: octicons/tag-16
-    #       abstract: octicons/checklist-16
-    #       info: octicons/info-16
-    #       tip: octicons/squirrel-16
-    #       success: octicons/check-16
-    #       question: octicons/question-16
-    #       warning: octicons/alert-16
-    #       failure: octicons/x-circle-16
-    #       danger: octicons/zap-16
-    #       bug: octicons/bug-16
-    #       example: octicons/beaker-16
-    #       quote: octicons/quote-16
     repo: fontawesome/brands/github
     annotation: material/plus-circle
   features:
     - toc.integrate
+    # - navigation.tabs
+    # - navigation.tabs.sticky
     - navigation.instant
+    - navigation.instant.preview
     - navigation.path
     - navigation.tracking
     - navigation.sections
     - navigation.expand
+    - navigation.indexes
     - search.suggest
     - content.code.copy
     - content.code.annotate
     - content.footnote.tooltips
 
 plugins:
+  - blog: 
+      draft: true
+      blog_toc: true
+      blog_dir: blog
+      post_dir: "{blog}/posts"
+      post_date_format: full
+      post_url_format: "{date}/{slug}"
+      archive: false
   - search:
       lang: en
   - social:
       cards_layout_options:
         background_color: red
         background_image: null  # Background color for the social card
-
   - mkdocstrings:
       handlers:
         python:
           options:
             annotations_path: brief
   - mkdocs-video
-#  - tags
-#  - blog:
-#      blog_dir: ./blog
 
 extra:
   og_image: images/cover_img.jpeg
@@ -92,6 +90,7 @@ markdown_extensions:
       anchor_linenums: true
       line_spans: __span
       pygments_lang_class: true
+  - pymdownx.mark
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.details
