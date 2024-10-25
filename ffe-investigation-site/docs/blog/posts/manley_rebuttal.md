@@ -193,7 +193,7 @@ Kevin Manley
 
 ---
 
-## **A Pattern of Predetermined Punishment**
+# **A Pattern of Predetermined Punishment**
 The evidence presents a disturbing pattern of administrative misconduct in the handling of the FFE investigation. What began as Mr. Manley promptly reporting concerns on November 1 devolved into what appears to be a calculated effort, with administrators actively working to circumvent proper procedures and his union rights.
 
 
