@@ -11,7 +11,7 @@ This letter was obtained from a source within Findlay City Schools administratio
 
 ==It's worth noting that this rebuttal letter, **despite Mr. Manley's explicit request** that it be "attached to all copies of the January 15, 2024, Investigator's report," has never been released to the public.== Findlay City Schools did not issue an updated version of the Investigation Report that included Mr. Manley's response, effectively keeping his rebuttal private until now.  
 
-The full content of the letter follows:  
+The full content of the letter, [additional documentation](#observations-from-kevin-manleys-rebuttal) and [summary](#a-pattern-of-predetermined-punishment) follows:  
 
 
 > May 9, 2024

@@ -40,3 +40,4 @@ Signed,
 John R. Eakin
 
 [Read the Report](./sections/Key%20Information%20from%20the%20PIR.md){ .md-button }
+[Read Kevin Manley's Rebuttal](./blog/posts/manley_rebuttal.md){ .md-button }
