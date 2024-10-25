@@ -10,7 +10,6 @@ nav:
   - Home: index.md
   - "Read The Report": sections/Key Information from the PIR.md
   - "Latest Updates": 
-    - blog/index.md
     - "Read Kevin Manley's Rebuttail": blog/posts/manley_rebuttal.md
   - "References":
     - "Timeline of Events": sections/initial_timeline.md
@@ -32,10 +31,9 @@ theme:
     annotation: material/plus-circle
   features:
     - toc.integrate
-    # - navigation.tabs
-    # - navigation.tabs.sticky
+    - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.instant
-    - navigation.instant.preview
     - navigation.path
     - navigation.tracking
     - navigation.sections
@@ -48,8 +46,6 @@ theme:
 
 plugins:
   - blog: 
-      draft: true
-      blog_toc: true
       blog_dir: blog
       post_dir: "{blog}/posts"
       post_date_format: full
