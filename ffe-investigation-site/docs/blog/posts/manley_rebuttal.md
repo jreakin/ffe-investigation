@@ -186,7 +186,7 @@ Kevin Manley
         ![](../../images/Nov%2012%20-%20Manley%20placed%20on%20suspension.png)
 
         - "It does not appear that [the interviewer] interviewed the Assistant Choir Director, FFE accompanist, FFE choreographer, and FFE costumer."
-            - In a text conversation on November 21, administrators were collaborating on how to explain to FFE parents how students being interviewed by the investigator were chosen ==before they ever making contact with an investigator==, according to [The Courier](../../sections/dec29_letter.md#5-on-educational-service-center-of-ohios-investigation-report)  
+            - In a text conversation on November 21, administrators were collaborating on how to explain to FFE parents how students being interviewed by the investigator were chosen ==before they ever making contact with an investigator==, which did not take place until November 28 according [The Courier](../../sections/dec29_letter.md#5-on-educational-service-center-of-ohios-investigation-report)  
             ![](../../images/Nov%2021%20-%20How%20students%20were%20chosen.png)
 
         !!! danger
