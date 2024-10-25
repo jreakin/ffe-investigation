@@ -132,7 +132,7 @@ Kevin Manley
 
 - Manley was placed on Administrative leave for allegedly discussing the investigation and violating a verbal directive - a directive format that isn't even permitted under the Findlay City Schools Collective Bargaining Agreement (CBA). The CBA explicitly requires directives to be issued in writing, making the verbal directive itself improper and unenforceable.  
 
-    Documents we have reviewed from FCS confirm he did not discuss the substance of the investigation with the FFE assistant, Alycia Althaus, who later reported the exchange with Manley to administrators.  
+    Documents we have reviewed from FCS confirm he did not discuss the substance of the investigation with the FFE assistant, Alycia Fox, who later reported the exchange with Manley to administrators.  
 
     - Background:
         - Based on text messages provided by FCS, Mr. Manley contacted Alycia Fox to share his train of thought and to check in on his Assistant Director at 9:26 AM on November 10. At 10:04 AM, Dr. Hatton sent his first insistance that Manley not "have any contact with staff, parents, or students as it relates to the investigation or as it relates to any concerns regarding FFE."
