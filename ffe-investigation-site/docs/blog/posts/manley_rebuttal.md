@@ -187,7 +187,7 @@ Kevin Manley
 
         - "It does not appear that [the interviewer] interviewed the Assistant Choir Director, FFE accompanist, FFE choreographer, and FFE costumer."
             - In a text conversation on November 21, administrators were collaborating on how to explain to FFE parents how students being interviewed by the investigator were chosen ==before they ever making contact with an investigator==, which did not take place until November 28 according [The Courier](../../sections/dec29_letter.md#5-on-educational-service-center-of-ohios-investigation-report)  
-            ![](../../images/Nov%2021%20-%20How%20students%20were%20chosen.png)
+            ![](../../images/Nov%2021%20-%20How%20students%20were%20chosen.png).
 
         !!! danger
             [The Courier](../../sections/dec29_letter.md#5-on-educational-service-center-of-ohios-investigation-report) reported that Findlay City Schools contacted the Educational Service Center of Central Ohio (ESCCO) "on or about November 28" to begin their investigation. However, evidence shows administrators were already determining who would be interviewed weeks before allegedly engaging ESCCO.  
