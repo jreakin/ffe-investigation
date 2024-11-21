@@ -5,7 +5,6 @@ date: 2024-11-20
 
 # **Unqualified and Overpaid: The Curious Case of FFE's New Directors**
 Following [Kevin Manley's](manley_rebuttal.md) resignation, Findlay City Schools (FCS) took an unconventional approach by hiring two directors to fill a role previously managed by a single teacher:
-David Coolidge (47 years old) and his wife Mary Beth Coolidge. 
 
 David Coolidge (47 years old) and his wife, Mary Beth Coolidge.  
 
