@@ -95,7 +95,7 @@ The significant increase in administrative costs for what was previously a singl
 
 **A recent Homecoming event at Findlay High School has sparked controversy and renewed concerns about the treatment of students and alumni, particularly those associated with the Findlay First Edition (FFE) organization.**
 !!! tip inline end "Context"
-    *This information is based on information gathered from various sources, including eyewitness accounts and social media discussions. Further investigation may be necessary to fully understand the situation.*
+    *This information is based on information gathered from various sources, including eyewitness accounts and social media discussions.*
 A former FFE member, returning to their alma mater for Homecoming, found themselves at the center of an unexpected and unpleasant encounter with FHS principal, Megan Simon. The alumnus, eager to participate in the festivities, was allegedly pressured to change their red FFE shirt due to a perceived violation of the school's "blue and gold" theme. This follows the pattern previously discussed around [employees, students, and parents](../../sections/Key%20Information%20from%20the%20PIR.md#3-derogatory-comments-about-ffe-personnel) who have shown support for FFE in the presence of or communication with FCS administrators. 
 
 This incident has further exposed the deep-seated animosity between Findlay City Schools administration and the FFE community. It demonstrates a persistent pattern of marginalizing and discriminating against FFE members, transforming what should be a celebratory homecoming event into yet another example of administrative overreach and potential harassment.  
