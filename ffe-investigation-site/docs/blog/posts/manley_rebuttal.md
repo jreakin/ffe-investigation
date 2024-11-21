@@ -12,6 +12,7 @@ This letter was obtained from a source within Findlay City Schools administratio
 
 The full content of the letter, [additional documentation](#observations-from-kevin-manleys-rebuttal) and [summary](#a-pattern-of-predetermined-punishment) follows:  
 
+<!-- more -->  
 
 > May 9, 2024
 >
@@ -104,7 +105,7 @@ Sincerely,
 >
 Kevin Manley
 
----
+---  
 
 
 # **Observations from Kevin Manley's Rebuttal**

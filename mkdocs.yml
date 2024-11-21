@@ -9,8 +9,11 @@ use_directory_urls: false
 nav:
   - Home: index.md
   - "Read The Report": sections/Key Information from the PIR.md
+  - '&nbsp;&nbsp;':  ""
   - "Latest Updates": 
-    - "Read Kevin Manley's Rebuttail": blog/posts/manley_rebuttal.md
+    - "Read Kevin Manley's Rebuttal": blog/posts/manley_rebuttal.md
+    - "Who Replaced Kevin Manley?": blog/posts/new_directors.md
+    - '&nbsp;&nbsp;': ""
   - "References":
     - "Timeline of Events": sections/initial_timeline.md
     - "Jan 29: Initial Letter": sections/dec29_letter.md
@@ -30,9 +33,10 @@ theme:
     repo: fontawesome/brands/github
     annotation: material/plus-circle
   features:
+    - blog
     - toc.integrate
-    - navigation.tabs
-    - navigation.tabs.sticky
+    # - navigation.tabs
+    # - navigation.tabs.sticky
     - navigation.instant
     - navigation.path
     - navigation.tracking
@@ -47,7 +51,7 @@ theme:
 plugins:
   - blog: 
       blog_dir: blog
-      post_dir: "{blog}/posts"
+      post_dir: blog/posts
       post_date_format: full
       post_url_format: "{date}/{slug}"
       archive: false

@@ -6,6 +6,7 @@ twitter_image: images/cover_img.jpeg
 color_scheme: dark
 theme_color: "#1e1e1e"
 ---
+
 # Uncovering the Truth: The Findlay First Edition Investigation
 
 Dear Reader,
@@ -44,5 +45,7 @@ John R. Eakin
 [Read the Report](./sections/Key%20Information%20from%20the%20PIR.md){ .md-button }   
 
 [Read Kevin Manley's Rebuttal](./blog/posts/manley_rebuttal.md){ .md-button }
+
+[Latest Updates](./blog/index.md){ .md-button }
 
 </center>
