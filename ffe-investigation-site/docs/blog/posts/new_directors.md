@@ -79,8 +79,8 @@ The significant increase in administrative costs for what was previously a singl
     **Possible Interpretations:**
 
     - Potential favoritism/neoptism
-    - Circumventing typical salary placement rules
-    - Possibly compensating her at a higher rate than her actual teaching experience warrants
+    - Circumventing salary protocols outlined in the Findlay Education Association's Collective Bargaining Agreement
+    - Compensating her at a higher rate than her actual teaching experience warrants
 
     The salary classifications raise significant questions about the Findlay City Schools' hiring and compensation practices, especially considering:
 
@@ -88,13 +88,13 @@ The significant increase in administrative costs for what was previously a singl
     - Combined, the Coolidge couple will earn nearly $180,000  
     - The previous director, Kevin Manley, earned about $91,000 with 33+ years of experience  
 
-    The generous salary placement appears suspicious and seems to lack transparency, especially given the documented issues with accessing official documentation.
+    The generous salary placement appears suspicious and seems to lack transparency, especially given the documented issues with accessing official Board of Education minutes and reports.
 
 <br>  
 
 ## FCS Administrators Continue to Have Contempt for FFE  
 
-**A recent Homecoming event at Findlay High School has sparked controversy and renewed concerns about the treatment of students and alumni, particularly those associated with the Findlay Fighting Farmers (FFE) organization.**
+**A recent Homecoming event at Findlay High School has sparked controversy and renewed concerns about the treatment of students and alumni, particularly those associated with the Findlay First Edition (FFE) organization.**
 !!! tip inline end "Context"
     *This information is based on information gathered from various sources, including eyewitness accounts and social media discussions. Further investigation may be necessary to fully understand the situation.*
 A former FFE member, returning to their alma mater for Homecoming, found themselves at the center of an unexpected and unpleasant encounter with FHS principal, Megan Simon. The alumnus, eager to participate in the festivities, was allegedly pressured to change their red FFE shirt due to a perceived violation of the school's "blue and gold" theme. This follows the pattern previously discussed around [employees, students, and parents](../../sections/Key%20Information%20from%20the%20PIR.md#3-derogatory-comments-about-ffe-personnel) who have shown support for FFE in the presence of or communication with FCS administrators. 
