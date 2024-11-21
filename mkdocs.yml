@@ -61,6 +61,9 @@ plugins:
       cards_layout_options:
         background_color: red
         background_image: null  # Background color for the social card
+        layers:
+          typography:
+            overflow: shrink
   - mkdocstrings:
       handlers:
         python:
