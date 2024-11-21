@@ -1,9 +1,9 @@
 ---
-title: "Who Replaced Kevin Manley?"
+title: "Unqualified and Overpaid: The Curious Case of FFE's New Directors"
 date: 2024-11-20
 ---  
 
-# **Who Replaced Kevin Manley?**
+# **Unqualified and Overpaid: The Curious Case of FFE's New Directors**
 Following [Kevin Manley's](manley_rebuttal.md) resignation, Findlay City Schools (FCS) took an unconventional approach by hiring two directors to fill a role previously managed by a single teacher:
 David Coolidge (47 years old) and his wife Mary Beth Coolidge. 
 
@@ -92,7 +92,7 @@ The significant increase in administrative costs for what was previously a singl
 
 <br>  
 
-## FCS Administrators Continue to Have Contempt for FFE  
+## Red Shirt, Blue Rage: FCS Administrators Wage War on Their Own Alumni
 
 **A recent Homecoming event at Findlay High School has sparked controversy and renewed concerns about the treatment of students and alumni, particularly those associated with the Findlay First Edition (FFE) organization.**
 !!! tip inline end "Context"
@@ -105,4 +105,4 @@ The confrontation over a simple red shirt reveals a troubling underlying dynamic
 
 Historically, the Findlay First Edition (FFE) has been a cornerstone of Findlay High School's cultural and artistic identity, with its members consistently demonstrating excellence that enhanced the school's reputation. Through performances, competitions, and community engagement, FFE has not just represented the school, but elevated its standing, serving as a premier example of the talent and dedication inherent in Findlay's student body.  
 
-Today, however, this once-celebrated program finds itself increasingly at odds with an administration that seems intent on diminishing its legacy. The growing divide is not merely a disagreement, but a systematic erosion of a program that has long been a source of pride, achievement, and community recognition. What was once a jewel in Findlay High School's crown now appears to be treated as a threat—a troubling transformation that speaks volumes about the current administrations's approach to institutional culture and student achievement.
+Today, however, this once-celebrated program finds itself increasingly at odds with an administration that seems intent on exterminating its legacy. The growing divide is not merely a disagreement, but a systematic erosion of a program that has long been a source of pride, achievement, and community recognition. What was once a jewel in Findlay High School's crown now appears to be treated as a threat—a troubling transformation that speaks volumes about the current administrations's approach to institutional culture and student achievement.
