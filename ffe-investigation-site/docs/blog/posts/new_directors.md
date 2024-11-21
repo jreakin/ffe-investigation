@@ -4,7 +4,7 @@ date: 2024-11-20
 ---  
 
 # **Who Replaced Kevin Manley?**
-Following [Kevin Manley's](manley_rebuttal.md) resignation, Findlay City Schools (FCS) took an unconventional approach by hiring two directors to fill a role previously managed by a single administrator:
+Following [Kevin Manley's](manley_rebuttal.md) resignation, Findlay City Schools (FCS) took an unconventional approach by hiring two directors to fill a role previously managed by a single teacher:
 David Coolidge (47 years old) and his wife Mary Beth Coolidge. 
 
 David Coolidge (47 years old) and his wife, Mary Beth Coolidge.  
@@ -46,7 +46,7 @@ At the September 16, 2024 FCS Board Meeting, HR Assistant Superintendent Krista 
 - Ohio teaching certificate obtained in August 2024
 ![](../../images/mary-beth-coolidge-teaching-certificate.png)
 
-However, her biographical details suggest an inconsistency, as her extensive professional career appears to preclude having 14 years of teaching experience starting at age 21.
+With Mary Beth Coolidge being 35 years old, the Step 14 pay scale becomes even more implausible. Given her extensive professional background in opera, higher education, and performing arts, it would be impossible for her to have accumulated 14 years of teaching experience starting at age 21.
 
 #### David Coolidge's Compensation
 As of publication:
