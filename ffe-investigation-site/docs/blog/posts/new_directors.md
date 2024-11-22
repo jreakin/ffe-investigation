@@ -28,16 +28,8 @@ David Coolidge (47 years old) and his wife, Mary Beth Coolidge.
 
 ### Compensation Analysis
 
-!!! warning Document Accessibility Concerns
-    A significant red flag in this transition is the systematic unavailability of crucial documents on the FCS Board of Education website:
-
-    - PDFs with titles beginning with "Assistant Superintendent of Personnel and HR" consistently fail to load
-    - Attempting to access these documents results in error messages
-    - Critical meeting minutes and compensation documents appear to be systematically inaccessible
-    - This lack of transparency prevents public scrutiny of the hiring and compensation process
-    ![](../../images/hr-pdf_error.png)  
 #### Mary Beth Coolidge's Salary
-At the September 16, 2024 FCS Board Meeting, HR Assistant Superintendent Krista Miller informed the board of Mary Beth's salary reclassification:
+At the September 16, 2024 FCS Board Meeting,Assistant Superintendenent of Personnnel and HR, Krista Miller, informed the board of Mary Beth's salary classification:
 
 - Step 14 pay scale (14 years of teaching experience)
 - Master's Degree + 30 credit hours
@@ -45,14 +37,44 @@ At the September 16, 2024 FCS Board Meeting, HR Assistant Superintendent Krista 
 - Ohio teaching certificate obtained in August 2024
 ![](../../images/mary-beth-coolidge-teaching-certificate.png)
 
-With Mary Beth Coolidge being 35 years old, the Step 14 pay scale becomes even more implausible. Given her extensive professional background in opera, higher education, and performing arts, it would be impossible for her to have accumulated 14 years of teaching experience starting at age 21.
+!!! warning "Mathematical Impossibility"
+    At age 35, Mary Beth Coolidge's experience timeline presents a mathematical impossibility:  
+
+    - Step 14 implies 14 years of K-12 teaching experience
+    - Would need to have started teaching at age 21 to accumulate this experience
+    - Yet has documented extensive career in:
+        - Opera performance
+        - Higher education
+        - Performing arts
+
+    This makes the Step 14 classification mathematically impossible, and no evidence exists of any concurrent K-12 teaching positions during her documented opera and higher education career.
+
+<br>
 
 #### David Coolidge's Compensation
-As of publication:
+At the June 18, 2024 FCS Board Meeting, Assistant Superintendenent of Personnnel and HR, Krista Miller, informed the board they agreed to pay David Coolidge:  
 
-- No teaching certificate from Ohio Department of Education
-- Reported salary around $100,000
-- No official documentation available in BoardDocs meeting minutes
+- Step 22 pay scale (22 years of teaching experience)
+- Master's Degree + 30 credit hours
+- Annual compensation $88,337 ([reference](https://go.boarddocs.com/oh/findlay/Board.nsf/files/D6CPAC63A695/$file/Assistant%20Superintendent%20of%20Personnel%20and%20HR%20Consent%20Items.pdf))
+- Without a teaching certificate issued by the Ohio Department of Education at time of publication.  
+
+!!! warning "Mathematical Impossibility"
+    At age 47, for Coolidge to have accumulated the experience claimed:  
+
+    - 25 years as a freelance artist (starting at age 22)
+    - 10 years in higher education
+    - Would total 35 years of experience
+
+    This experience-based pay scale is mathematically impossible, and no evidence exists of any concurrent K-12 teaching positions during his documented freelance and higher education career.
+
+!!! danger "Unqualified Yet Highly Compensated"
+    More critically, FCS has placed him at Step 22 on the teacher pay scale—implying 22 years of K-12 teaching experience—despite having:
+
+    - No Ohio teaching license
+    - No documented K-12 teaching experience
+    - No evidence of prior school district employment
+<br>
 
 **Comparative Compensation**  
 
@@ -61,19 +83,34 @@ As of publication:
 
 The significant increase in administrative costs for what was previously a single director's role raises questions about the district's financial decision-making.  
 
-!!! abstract "Key Takeaways"  
-    ### Key Takeaways
-    Based on the document, there are several suspicious circumstances surrounding Mary Beth Coolidge's salary classification that raise serious questions:
 
-    **Timing and Credentials**  
+!!! abstract "Key Takeaways"
+    The official board documents and state records reveal concerning discrepancies in the Coolidges' salary classifications:
 
-    - Mary Beth just received her Ohio teaching certificate in August 2024  
-    - She's been given a Step 14 pay scale (implying 14 years of teaching experience)  
-    - Her professional background suggests an extensive career in performing arts and higher education, not K-12 teaching  
+    **Mary Beth Coolidge's Classification**  
 
-    **Unusual Salary Placement**  
+    - Recently certified: Ohio teaching certificate obtained August 2024  
+    - Classified at Step 14 ($80,000/year), indicating 14 years K-12 teaching experience  
+    - Age 35, making the claimed years of experience mathematically improbable given her documented career in opera and higher education  
 
-    - The document highlights an apparent inconsistency: her biographical details make it "impossible" that she has 14 years of teaching experience starting at age 21, given her extensive professional history.
+    **David Coolidge's Classification**  
+
+    - Placed at Step 22 ($88,337/year), indicating 22 years K-12 teaching experience
+    - No Ohio teaching certificate on record
+    - Age 47, with documented career primarily in freelance arts (25 years) and higher education (10 years)
+    - Experience timeline shows mathematical impossibility unless significant role overlap
+
+    **Financial Impact**  
+
+    - Previous single director (Kevin Manley): ~$91,000 with 33+ years experience
+    - Current arrangement: Combined salary of ~$180,000 for the Coolidge couple
+    - Nearly doubles the administrative costs for what was previously one position
+
+    **Documentation Concerns**  
+
+    - Step placements suggest extensive K-12 teaching experience for both hires
+    - Board documents show no evidence of prior K-12 teaching experience or district employment
+    - Salary classifications appear to deviate from standard experience-based placement protocols
 
     **Possible Interpretations:**
 
@@ -87,9 +124,41 @@ The significant increase in administrative costs for what was previously a singl
     - Combined, the Coolidge couple will earn nearly $180,000  
     - The previous director, Kevin Manley, earned about $91,000 with 33+ years of experience  
 
-    The generous salary placement appears suspicious and seems to lack transparency, especially given the documented issues with accessing official Board of Education minutes and reports.
-
 <br>  
+
+The documented evidence exposes a disturbing pattern of administrative irregularities within Findlay City Schools that demands immediate scrutiny. 
+
+The Coolidge appointments represent a perfect storm of questionable decisions: mathematical impossibilities in their experience calculations, inexplicable salary step placements, and a stark lack of traditional qualifications. David Coolidge received Step 22 compensation ($88,337) without even holding a teaching license, while Mary Beth Coolidge was placed at Step 14 ($80,000) mere months after obtaining her first teaching certificate - both with zero evidence of K-12 teaching experience to justify these inflated steps. 
+
+Perhaps most egregious is FCS's decision to nearly **double taxpayer costs by splitting one position into two**, resulting in a combined compensation of approximately $180,000 - almost double the ~$91,000 paid to their predecessor who had 33+ years of actual teaching experience. These findings reveal more than just poor judgment; they represent a serious breach of public trust and misuse of taxpayer funds that raises grave concerns about the integrity of FCS's hiring processes and their commitment to responsible financial stewardship of public education resources.
+
+## **But wait, there's more!**
+In addition to their already controversial compensation packages, neither David nor Mary Beth Coolidge can play the piano, a critical skill for directing a show choir like Findlay First Edition. This lack of proficiency led the district to hire an external pianist, costing $900 per week for rehearsals.
+
+!!! example inline "Calculating Piano Player Compensation"
+
+    Over the course of the academic year, assuming a standard 36-week school year:
+
+    Weekly Cost: $900  
+    Total Additional Cost:  
+    $900/week * 36 weeks = $32,400
+This expense adds an additional $32,000 to the already increased administrative costs associated with the Coolidges' employment. This decision not only questions the financial prudence of the district but also the rationale behind hiring individuals for roles where they evidently lack key competencies necessary for the job. The choice to essentially outsource a fundamental aspect of their position further inflates the financial burden on Findlay City Schools, demonstrating a significant oversight in the hiring process. 
+
+<br>
+<br>
+
+Below are the financial implications of FCS' hiring choices, illustrating the increased burden on Findlay taxpayers:
+
+| Employee | Salary | 
+| -- | -- |
+| David Coolidge | $88,300
+| Mary Beth Coolidge | $80,000
+| Unnamed Piano Player | $32,000+|
+| **Total Cost** | **$200,300** |
+|  |   |
+| Kevin Manley's Salary | $91,000 |
+| **==Additional Taxpayer Burden To Replace Kevin Manley==** |**==$109,000+ (+120%)==**|
+
 
 ## Red Shirt, Blue Rage: FCS Administrators Wage War on Their Own Alumni
 
