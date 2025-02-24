@@ -87,7 +87,7 @@ This evidence shifts the focus from a supposed cyber threat to the administrator
     - Creates detailed system logs  
 
 Google Workspace, which FCS uses for email, has a specific process for quarantining suspicious messages:
-> With email quarantine, Google Workspace admins can create settings that send incoming and outgoing email messages to a quarantine before they’re delivered to recipients ([source](https://support.google.com/a/answer/6104172?hl=en))
+> With email quarantine, Google Workspace admins can create settings that send incoming and outgoing email messages to a quarantine **before they’re delivered to recipients** ([source](https://support.google.com/a/answer/6104172?hl=en))
 
 None of these standard quarantine markers or restrictions were present. Instead, the evidence shows:
 
