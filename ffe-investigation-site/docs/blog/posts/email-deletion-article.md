@@ -158,20 +158,13 @@ However, their denials notably fail to:
 - Explain missing records  
 - Address timeline contradictions  
 
-The logs they're withholding would show:  
-
-- When exactly the emails were deleted  
-- Which administrator's account executed the deletion  
-- Whether emails were removed individually or en masse  
-- If any actual quarantine actions occurred  
-- Complete email delivery and routing history  
-
 #### By withholding these system logs under a questionable "security records" exemption, FCS administrators are concealing the very evidence that would:
 
 - Prove these were manual administrative deletions, not automated security measures  
 - Reveal the exact timeline contradicting their quarantine claims  
 - Identify which administrator ordered or executed the deletions  
 - Demonstrate that no quarantine was ever implemented  
+- Show complete email delivery and routing history  
 - Document exactly how many staff accounts were affected  
 
 !!! danger "Why It Matters"
