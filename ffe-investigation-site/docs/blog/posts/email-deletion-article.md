@@ -4,14 +4,14 @@ date: 2025-02-23
 slug: email-deletion
 ---  
 
-# Uncovering the Truth: How FCS Administrators Destroyed Public Records and Attempted to Cover Their Tracks
+# How FCS Administrators Destroyed Public Records and Attempted to Cover Their Tracks
 
 !!! note inline end "Editorial Note"
     The anonymous sender’s familiarity with FCS internals and their fear of retaliation point strongly to an employee going to lengths to protect themselves while sharing critical insights.
 
 Last week, I received an anonymous message from someone I believe to be a Findlay City Schools (FCS) employee. The sender reached out with a wealth of insider details—specifics about district operations, union representation processes, staff fears of retaliation, the FFE investigation timeline, and even non-public administrative actions. Their depth of knowledge was striking, and it’s clear they wanted to shed light on the situation for colleagues and the community alike. Beyond their grasp of the details, they took careful steps to stay anonymous—showing both technical savvy and a real concern about reprisal if their identity slipped out. This correspondence landed in my hands with a purpose: to inform while staying in the shadows.
 
-## From Shadows to Light: Records from an Anonymous FCS Employee Reveal Another Cover-Up in the FFE Investigation
+## Records from an Anonymous FCS Employee Reveal Another Cover-Up in the FFE Investigation
 When faced with the spread of information they didn't want public, Findlay City Schools administrators took drastic action - deliberately destroying public records across hundreds of employee email accounts, then attempting to cover their tracks with false claims about email security measures.
 
 Through careful analysis of records obtained via public information requests, a clear picture emerges of what really happened on the evening of October 22, 2024, when administrators discovered their staff was learning about troubling revelations regarding the FFE investigation.
