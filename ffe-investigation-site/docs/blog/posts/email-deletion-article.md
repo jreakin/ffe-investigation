@@ -253,5 +253,5 @@ The record is clear, the truth is out, and history will judge those who chose to
 
 For more background on the FFE investigation that administrators were trying to suppress information about, see our previous coverage:  
 
-- [Read the report](../../sections/Key%20Information%20from%20the%20PIR.html)  
+- [Read the report](../../sections/Key%20Information%20from%20the%20PIR.md)  
 - [Read Kevin Manley's rebuttal](../../blog/posts/manley_rebuttal.md)  
