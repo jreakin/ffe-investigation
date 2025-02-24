@@ -1,5 +1,5 @@
 ---
-title: Email Deletion Article
+title: How FCS Administrators Destroyed Public Records and Attempted to Cover Their Tracks
 date: 2025-02-23
 slug: email-deletion
 ---  
