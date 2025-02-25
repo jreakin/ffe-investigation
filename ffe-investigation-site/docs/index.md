@@ -1,10 +1,12 @@
 ---
-title: "Read the report"
+title: "Home"
 description: "Uncovering the Truth: The Findlay First Edition Investigation"
 og_image: images/cover_img.jpeg
 twitter_image: images/cover_img.jpeg
 color_scheme: dark
 theme_color: "#1e1e1e"
+hide: 
+    - navigation
 ---
 
 # Uncovering the Truth: The Findlay First Edition Investigation
@@ -44,8 +46,8 @@ John R. Eakin
 
 [Read the Report](./sections/Key%20Information%20from%20the%20PIR.md){ .md-button }   
 
-[Read Kevin Manley's Rebuttal](./blog/posts/manley_rebuttal.md){ .md-button }
+[Read Kevin Manley's Rebuttal](./latest-updates/posts/manley_rebuttal.md){ .md-button }
 
-[Latest Updates](./blog/index.md){ .md-button }
+[Latest Updates](./latest-updates/index.md){ .md-button }
 
 </center>

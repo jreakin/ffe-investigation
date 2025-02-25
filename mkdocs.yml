@@ -8,14 +8,10 @@ use_directory_urls: false
 
 nav:
   - Home: index.md
-  - "Read The Report": sections/Key Information from the PIR.md
-  - '&nbsp;&nbsp;':  ""
-  - "Latest Updates": 
-    - "How FCS Administrators Destroyed Public Records and Attempted to Cover Their Tracks": blog/posts/email-deletion-article.md
-    - "Read Kevin Manley's Rebuttal": blog/posts/manley_rebuttal.md
-    - "Unqualified and Overpaid: The Curious Case of FFE's New Directors": blog/posts/new_directors.md
-    - '&nbsp;&nbsp;': ""
-  - "References":
+  - Read The Report: sections/Key Information from the PIR.md
+  - Latest Updates:
+    - latest-updates/index.md
+  - References:
     - "Timeline of Events": sections/initial_timeline.md
     - "Jan 29: Initial Letter": sections/dec29_letter.md
     - "Feb 5: Public Information Request": sections/original_pir.md
@@ -25,7 +21,7 @@ nav:
 
 theme:
   name: material
-  toc_depth: 1
+  # toc_depth: 1
   palette:
     scheme: slate
     primary: pink
@@ -35,14 +31,15 @@ theme:
     annotation: material/plus-circle
   features:
     - blog
-    - toc.integrate
-    # - navigation.tabs
-    # - navigation.tabs.sticky
+    # - toc.integrate
+    # - toc.follow
+    - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.instant
     - navigation.path
-    - navigation.tracking
+    # - navigation.tracking
     - navigation.sections
-    - navigation.expand
+    # - navigation.expand
     - navigation.indexes
     - search.suggest
     - content.code.copy
@@ -50,9 +47,10 @@ theme:
     - content.footnote.tooltips
 
 plugins:
-  - blog: 
-      blog_dir: blog
-      post_dir: blog/posts
+  - blog:
+      blog_dir: latest-updates
+      post_dir: "latest-updates/posts"
+      blog_toc: true
       post_date_format: full
       post_url_format: "{date}/{slug}"
       archive: false
@@ -63,11 +61,11 @@ plugins:
         background_color: red
         background_image: null  # Background color for the social card
         
-  - mkdocstrings:
-      handlers:
-        python:
-          options:
-            annotations_path: brief
+  # - mkdocstrings:
+  #     handlers:
+  #       python:
+  #         options:
+  #           annotations_path: brief
   - mkdocs-video
 
 extra:
@@ -102,7 +100,7 @@ markdown_extensions:
         custom_fences:
           - name: mermaid
             class: mermaid
-            # format: !!python/name:pymdownx.superfences.fence_code_format
+            format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.magiclink
   # - pymdownx.emoji:
   #     emoji_index: !!python/name:material.extensions.emoji.twemoji

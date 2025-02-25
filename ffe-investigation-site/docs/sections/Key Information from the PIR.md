@@ -1,4 +1,7 @@
 ---
+hide: 
+- navigation
+- toc
 og_image: images/cover_img.jpeg
 twitter_image: images/cover_img.jpeg
 color_scheme: dark
