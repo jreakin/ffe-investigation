@@ -1,5 +1,5 @@
 ---
-title: How FCS Administrators Destroyed Public Records and Attempted to Cover Their Tracks
+title: How Findlay City Schools Administrators Destroyed Public Records and Attempted to Cover Their Tracks
 date: 2025-02-24
 slug: email-deletion
 hide:
@@ -8,7 +8,7 @@ hide:
 - meta
 ---  
 
-# How FCS Administrators Destroyed Public Records and Attempted to Cover Their Tracks
+# Findlay City Schools Administrators <br> **Destroyed** Public Records and Attempted to Cover Their Tracks
 
 !!! note inline end "Editorial Note"
     The anonymous sender’s familiarity with FCS internals and their fear of retaliation point strongly to an employee going to lengths to protect themselves while sharing critical insights.
