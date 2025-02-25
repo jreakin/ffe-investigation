@@ -1,6 +1,6 @@
 ---
 title: How FCS Administrators Destroyed Public Records and Attempted to Cover Their Tracks
-date: 2025-02-23
+date: 2025-02-24
 slug: email-deletion
 hide:
 - toc
