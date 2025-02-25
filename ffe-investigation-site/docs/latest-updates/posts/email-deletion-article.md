@@ -31,7 +31,7 @@ At 5:40 PM on October 22, an email was sent to FCS staff informing them about ne
 
 The email encouraged staff to reach out to union representatives if they had experienced similar situations, noting "I know there's fear about speaking up - we've all seen what can happen. That's exactly why working through union representation is so important."
 
-## The Timeline Exposes False Claims
+## The Timeline Exposes FCS' False Claims
 
 FCS administrators would later claim this email was "immediately quarantined" as a security threat. An email from FCS Technology Director Justin Shank: 
 
@@ -61,9 +61,9 @@ The email, sent at 5:40 PM from "Vivian Vivaldi," contained no hallmarks of a ph
 - **No Suspicious Links or Attachments**: The email included text urging staff to review a published report about the FFE investigation but did not contain hyperlinks, downloadable files, or prompts to enter credentials—common tactics in phishing attempts.  
 - **Professional Tone and Context**: It addressed staff directly about a legitimate workplace issue (the FFE investigation), encouraged union engagement, and referenced known district dynamics (e.g., fear of retaliation), aligning with internal concerns rather than external deception.  
 - **No Technical Red Flags**: Records show it was delivered via Mailchimp, a reputable email marketing platform, not a spoofed domain or unsecured server typical of malicious emails.
-Phishing emails typically aim to trick recipients into revealing sensitive information or installing malware, often through urgent language or fake credentials requests. This email, by contrast, sought to inform staff about documented discrepancies—hardly the intent of a cyberattack.  
 
-Phishing emails typically aim to trick recipients into revealing sensitive information or installing malware, often through urgent language or fake credentials requests. This email, by contrast, sought to inform staff about documented discrepancies—hardly the intent of a cyberattack.
+
+Phishing emails typically aim to trick recipients into revealing sensitive information or installing malware, often through urgent language or fake credentials requests. This email, by contrast, sought to inform staff about documented discrepancies—hardly the intent of a cyberattack.  
 
 ### Mailchimp’s Pre-Send Safeguards
 
@@ -249,7 +249,9 @@ This pattern of behavior is compounded by the Findlay City Schools Board’s app
     - Intent to deny Manley union representation rights
 
 ## Conclusion: A Reckoning Long Overdue
-The evidence laid bare in these pages—from the synchronized deletion of 215 emails to the board’s obstinate silence—paints an unmistakable portrait of corruption and cowardice at the heart of Findlay City Schools. Administrators didn’t just destroy public records; they obliterated trust, weaponizing their authority to bury truths that threatened their narrative. The FCS board, fully briefed since this website’s inception and explicitly warned in my October 25, 2024 email, has chosen to stand by as complicit spectators, ignoring a roadmap to redemption in favor of shielding the very culprits driving this crisis. What began as a flawed investigation into Findlay First Edition has metastasized into a systemic cover-up, with each layer of deception peeling back to reveal a leadership rotten to its core.  
+The evidence laid bare in these pages—from the synchronized deletion of 215 emails to the board’s obstinate silence—paints an unmistakable portrait of corruption and cowardice at the heart of Findlay City Schools. Administrators didn’t just destroy public records; they obliterated trust, weaponizing their authority to bury truths that threatened their narrative. The FCS board, fully briefed since this website’s inception and explicitly warned in my October 25, 2024 email, has chosen to stand by as complicit spectators, ignoring a roadmap to redemption in favor of shielding the very culprits driving this crisis.  I've also shared all information with *The Courier* and *WFIN*, before releasing it here, but they’ve yet to report on it either. If this is news to you, you should let [Jeremy Speer know](mailto:news@thecourier.com)—because the silence from those who should amplify this story is deafening.
+
+ What began as a flawed investigation into Findlay First Edition has metastasized into a criminal cover-up, with each layer of deception peeling back to reveal a leadership rotten to its core.  
 
 This isn’t just a story of administrative missteps—it’s a betrayal of students, staff, and a community that deserves better. The legal violations stack high: potential felonies under Ohio law, civil penalties that could reach hundreds of thousands, and a legacy of disgrace for those who enabled it. Yet, the board’s inertia suggests they’ll do nothing. The time for excuses ended with the evidence; the time for accountability is now. Findlay’s citizens, educators, and students must demand a reckoning—because if this board won’t act, the people will have to. 
 
