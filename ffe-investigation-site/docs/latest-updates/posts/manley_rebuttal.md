@@ -3,7 +3,7 @@ title: "Read Kevin Manley's Rebuttal"
 date: 2024-10-23
 ---  
 
-# **Read Kevin Manley's Rebuttal**
+# Read Kevin Manley's Rebuttal
 This letter was obtained from a source within Findlay City Schools administration and has been transcribed exactly as written to protect the anonymity of the source. Any identifying marks, stamps, or notations from the original document have been intentionally omitted from this publication to maintain confidentiality.  
 
 ==It's worth noting that this rebuttal letter, **despite Mr. Manley's explicit request** that it be "attached to all copies of the January 15, 2024, Investigator's report," has never been released to the public.== Findlay City Schools did not issue an updated version of the Investigation Report that included Mr. Manley's response, effectively keeping his rebuttal private until now.  
