@@ -51,10 +51,6 @@ John R. Eakin
 
 [Read Kevin Manley's Rebuttal](./latest-updates/posts/manley_rebuttal.md){ .md-button }
 
-</center>  
+[Latest Updates](./latest-updates/index.md){ .md-button }
 
-<br>  
-
----
-
-# **Latest Updates**
+</center>
