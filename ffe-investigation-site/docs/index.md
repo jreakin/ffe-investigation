@@ -1,5 +1,6 @@
 ---
 title: "Home"
+date: 2024-10-01
 description: "Uncovering the Truth: The Findlay First Edition Investigation"
 og_image: images/cover_img.jpeg
 twitter_image: images/cover_img.jpeg
@@ -7,6 +8,8 @@ color_scheme: dark
 theme_color: "#1e1e1e"
 hide: 
     - navigation
+    - toc
+slug: home
 ---
 
 # Uncovering the Truth: The Findlay First Edition Investigation
@@ -48,6 +51,10 @@ John R. Eakin
 
 [Read Kevin Manley's Rebuttal](./latest-updates/posts/manley_rebuttal.md){ .md-button }
 
-[Latest Updates](./latest-updates/index.md){ .md-button }
+</center>  
 
-</center>
+<br>  
+
+---
+
+# **Latest Updates**

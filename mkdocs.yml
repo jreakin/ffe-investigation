@@ -48,7 +48,7 @@ theme:
 
 plugins:
   - blog:
-      blog_dir: latest-updates
+      blog_dir: .
       post_dir: "latest-updates/posts"
       blog_toc: true
       post_date_format: full
