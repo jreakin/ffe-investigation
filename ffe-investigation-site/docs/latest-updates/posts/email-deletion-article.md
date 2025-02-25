@@ -110,7 +110,7 @@ This screenshot, taken at 7:21 PM, shows the email remained accessible in staff 
 
 ## Destruction of Public Records
 
-By deliberately deleting these emails from 215 employee inboxes, FCS administrators likely violated multiple Ohio laws:
+By deliberately deleting these emails from 215 employee inboxes, FCS administrators violated multiple Ohio laws:
 
 ### Ohio Revised Code [§ 149.351(A)](https://codes.ohio.gov/ohio-revised-code/section-149.351):
    - Prohibits unauthorized destruction of public records
