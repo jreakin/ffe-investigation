@@ -138,7 +138,6 @@ Each deletion could constitute a separate violation, with serious consequences:
     - Third-degree felony under [ORC § 2913.42](https://codes.ohio.gov/ohio-revised-code/section-2913.42)  
     - Maximum $10,000 fine per violation  
     - Up to 36 months prison per violation  
-    - Removal from public office possible  
 
 ## Hiding the Evidence
 
